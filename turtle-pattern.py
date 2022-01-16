@@ -1,34 +1,161 @@
+# import required modules
 import turtle
-turtle.setup(width=600, height=500)
-turtle.reset()
-turtle.hideturtle()
-turtle.speed(0)
+import time
+import random
 
-turtle.bgcolor('black')
+delay = 0.1
+score = 0
+high_score = 0
 
-c = 0
-x = 0
 
-colors = [
-#reddish colors
-(1.00, 0.00, 0.00),(1.00, 0.03, 0.00),(1.00, 0.05, 0.00),(1.00, 0.07, 0.00),(1.00, 0.10, 0.00),(1.00, 0.12, 0.00),(1.00, 0.15, 0.00),(1.00, 0.17, 0.00),(1.00, 0.20, 0.00),(1.00, 0.23, 0.00),(1.00, 0.25, 0.00),(1.00, 0.28, 0.00),(1.00, 0.30, 0.00),(1.00, 0.33, 0.00),(1.00, 0.35, 0.00),(1.00, 0.38, 0.00),(1.00, 0.40, 0.00),(1.00, 0.42, 0.00),(1.00, 0.45, 0.00),(1.00, 0.47, 0.00),
-#orangey colors
-(1.00, 0.50, 0.00),(1.00, 0.53, 0.00),(1.00, 0.55, 0.00),(1.00, 0.57, 0.00),(1.00, 0.60, 0.00),(1.00, 0.62, 0.00),(1.00, 0.65, 0.00),(1.00, 0.68, 0.00),(1.00, 0.70, 0.00),(1.00, 0.72, 0.00),(1.00, 0.75, 0.00),(1.00, 0.78, 0.00),(1.00, 0.80, 0.00),(1.00, 0.82, 0.00),(1.00, 0.85, 0.00),(1.00, 0.88, 0.00),(1.00, 0.90, 0.00),(1.00, 0.93, 0.00),(1.00, 0.95, 0.00),(1.00, 0.97, 0.00),
-#yellowy colors
-(1.00, 1.00, 0.00),(0.95, 1.00, 0.00),(0.90, 1.00, 0.00),(0.85, 1.00, 0.00),(0.80, 1.00, 0.00),(0.75, 1.00, 0.00),(0.70, 1.00, 0.00),(0.65, 1.00, 0.00),(0.60, 1.00, 0.00),(0.55, 1.00, 0.00),(0.50, 1.00, 0.00),(0.45, 1.00, 0.00),(0.40, 1.00, 0.00),(0.35, 1.00, 0.00),(0.30, 1.00, 0.00),(0.25, 1.00, 0.00),(0.20, 1.00, 0.00),(0.15, 1.00, 0.00),(0.10, 1.00, 0.00),(0.05, 1.00, 0.00),
-#greenish colors
-(0.00, 1.00, 0.00),(0.00, 0.95, 0.05),(0.00, 0.90, 0.10),(0.00, 0.85, 0.15),(0.00, 0.80, 0.20),(0.00, 0.75, 0.25),(0.00, 0.70, 0.30),(0.00, 0.65, 0.35),(0.00, 0.60, 0.40),(0.00, 0.55, 0.45),(0.00, 0.50, 0.50),(0.00, 0.45, 0.55),(0.00, 0.40, 0.60),(0.00, 0.35, 0.65),(0.00, 0.30, 0.70),(0.00, 0.25, 0.75),(0.00, 0.20, 0.80),(0.00, 0.15, 0.85),(0.00, 0.10, 0.90),(0.00, 0.05, 0.95),
-#blueish colors
-(0.00, 0.00, 1.00),(0.05, 0.00, 1.00),(0.10, 0.00, 1.00),(0.15, 0.00, 1.00),(0.20, 0.00, 1.00),(0.25, 0.00, 1.00),(0.30, 0.00, 1.00),(0.35, 0.00, 1.00),(0.40, 0.00, 1.00),(0.45, 0.00, 1.00),(0.50, 0.00, 1.00),(0.55, 0.00, 1.00),(0.60, 0.00, 1.00),(0.65, 0.00, 1.00),(0.70, 0.00, 1.00),(0.75, 0.00, 1.00),(0.80, 0.00, 1.00),(0.85, 0.00, 1.00),(0.90, 0.00, 1.00),(0.95, 0.00, 1.00)
-]
 
-while x < 1000:
-    idx = int(c)
-    color = colors[idx]
-    turtle.color(color)
-    turtle.forward(x)
-    turtle.right(98)
-    x = x + 1
-    c = c + 0.1
+# Creating a window screen
+wn = turtle.Screen()
+wn.title("Snake Game by Ansh")
+wn.bgcolor("blue")
+# the width and height can be put as user's choice
+wn.setup(width=600, height=600)
+wn.tracer(0)
 
-turtle.exitonclick()
+# head of the snake
+head = turtle.Turtle()
+head.shape("square")
+head.color("white")
+head.penup()
+head.goto(0, 0)
+head.direction = "Stop"
+
+# food in the game
+food = turtle.Turtle()
+colors = random.choice(['red', 'green', 'black'])
+shapes = random.choice(['square', 'triangle', 'circle'])
+food.speed(0)
+food.shape(shapes)
+food.color(colors)
+food.penup()
+food.goto(0, 100)
+
+pen = turtle.Turtle()
+pen.speed(0)
+pen.shape("square")
+pen.color("white")
+pen.penup()
+pen.hideturtle()
+pen.goto(0, 250)
+pen.write("Score : 0 High Score : 0", align="center",
+		font=("candara", 24, "bold"))
+
+
+
+# assigning key directions
+def group():
+	if head.direction != "down":
+		head.direction = "up"
+
+
+def godown():
+	if head.direction != "up":
+		head.direction = "down"
+
+
+def goleft():
+	if head.direction != "right":
+		head.direction = "left"
+
+
+def goright():
+	if head.direction != "left":
+		head.direction = "right"
+
+
+def move():
+	if head.direction == "up":
+		y = head.ycor()
+		head.sety(y+20)
+	if head.direction == "down":
+		y = head.ycor()
+		head.sety(y-20)
+	if head.direction == "left":
+		x = head.xcor()
+		head.setx(x-20)
+	if head.direction == "right":
+		x = head.xcor()
+		head.setx(x+20)
+
+
+		
+wn.listen()
+wn.onkeypress(group, "w")
+wn.onkeypress(godown, "s")
+wn.onkeypress(goleft, "a")
+wn.onkeypress(goright, "d")
+
+segments = []
+
+
+
+# Main Gameplay
+while True:
+	wn.update()
+	if head.xcor() > 290 or head.xcor() < -290 or head.ycor() > 290 or head.ycor() < -290:
+		time.sleep(1)
+		head.goto(0, 0)
+		head.direction = "Stop"
+		colors = random.choice(['red', 'blue', 'green'])
+		shapes = random.choice(['square', 'circle'])
+		for segment in segments:
+			segment.goto(1000, 1000)
+		segments.clear()
+		score = 0
+		delay = 0.1
+		pen.clear()
+		pen.write("Score : {} High Score : {} ".format(
+			score, high_score), align="center", font=("candara", 24, "bold"))
+	if head.distance(food) < 20:
+		x = random.randint(-270, 270)
+		y = random.randint(-270, 270)
+		food.goto(x, y)
+
+		# Adding segment
+		new_segment = turtle.Turtle()
+		new_segment.speed(0)
+		new_segment.shape("square")
+		new_segment.color("orange") # tail colour
+		new_segment.penup()
+		segments.append(new_segment)
+		delay -= 0.001
+		score += 10
+		if score > high_score:
+			high_score = score
+		pen.clear()
+		pen.write("Score : {} High Score : {} ".format(
+			score, high_score), align="center", font=("candara", 24, "bold"))
+	# Checking for head collisions with body segments
+	for index in range(len(segments)-1, 0, -1):
+		x = segments[index-1].xcor()
+		y = segments[index-1].ycor()
+		segments[index].goto(x, y)
+	if len(segments) > 0:
+		x = head.xcor()
+		y = head.ycor()
+		segments[0].goto(x, y)
+	move()
+	for segment in segments:
+		if segment.distance(head) < 20:
+			time.sleep(1)
+			head.goto(0, 0)
+			head.direction = "stop"
+			colors = random.choice(['red', 'blue', 'green'])
+			shapes = random.choice(['square', 'circle'])
+			for segment in segments:
+				segment.goto(1000, 1000)
+			segment.clear()
+
+			score = 0
+			delay = 0.1
+			pen.clear()
+			pen.write("Score : {} High Score : {} ".format(
+				score, high_score), align="center", font=("candara", 24, "bold"))
+	time.sleep(delay)
+
+wn.mainloop()
