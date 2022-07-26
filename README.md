@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @anshgoyalevil
-- 👀 I’m interested in Every Modern IT Solution
-- 🌱 I’m currently learning Data Structures & Algorithms, With Java & C++
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me - Ping me wherever you think you can.
+# Hi, I'm Ansh 👋🏾 👨‍💻
 
-<!---
-anshgoyalevil/anshgoyalevil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Twitter Follow](https://img.shields.io/twitter/follow/ThisIsAnshGoyal?label=Follow)](https://twitter.com/intent/follow?screen_name=ThisIsAnshGoyal)
+[![Linkedin: Ansh](https://img.shields.io/badge/-Ansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisanshg/)](https://www.linkedin.com/in/thisisanshg/)
+![GitHub followers](https://img.shields.io/github/followers/anshgoyalevil?label=Follow&style=social)
