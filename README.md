@@ -22,4 +22,4 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/thisisanshg/">LinkedIn</a> 😇
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/anshgoyalevil/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anshgoyalevil/anshgoyalevil/blob/output/github-contribution-grid-snake.svg)
