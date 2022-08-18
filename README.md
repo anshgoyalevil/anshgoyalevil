@@ -24,4 +24,4 @@
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/anshgoyalevil/anshgoyalevil/blob/output/github-contribution-grid-snake.svg)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anshgoyalevil)](https://github.com/anshgoyalevil)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anshgoyalevil&show_icons=true&theme=radical)
