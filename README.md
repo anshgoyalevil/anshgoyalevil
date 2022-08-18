@@ -14,7 +14,7 @@
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at anshgoyal1704@gmail.com! I'll try to respond as soon as I can.
 
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anshgoyalevil)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the web 🌎
 - Struggling on <a href="https://www.leetcode.com/itsanshgoyal/">LeetCode</a> 😍
