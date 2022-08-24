@@ -1,5 +1,7 @@
 # Hi, I'm Ansh 👋🏾 👨‍💻
 
+![gitartwork](gitartwork.svg)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ThisIsAnshG?label=Follow)](https://twitter.com/intent/follow?screen_name=ThisIsAnshG)
 [![Linkedin: Ansh](https://img.shields.io/badge/-Ansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisanshg/)](https://www.linkedin.com/in/thisisanshg/)
 ![GitHub followers](https://img.shields.io/github/followers/anshgoyalevil?label=Follow&style=social)
@@ -20,8 +22,3 @@
 - Struggling on <a href="https://www.leetcode.com/itsanshgoyal/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/127001evil/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/thisisanshg/">LinkedIn</a> 😇
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/anshgoyalevil/anshgoyalevil/blob/output/github-contribution-grid-snake.svg)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anshgoyalevil&show_icons=true&theme=radical)
