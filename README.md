@@ -23,4 +23,4 @@
 - Practising on <a href="https://www.codeforces.com/profile/127001evil/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/thisisanshg/">LinkedIn</a> 😇
 
-[![@thisisanshg's Holopin board](https://holopin.io/api/user/board?user=thisisanshg)](https://holopin.io/@thisisanshg)
+
