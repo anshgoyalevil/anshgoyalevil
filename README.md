@@ -22,5 +22,3 @@
 - Struggling on <a href="https://www.leetcode.com/itsanshgoyal/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/127001evil/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/thisisanshg/">LinkedIn</a> 😇
-
-![LeetCode Stats](https://leetcode.card.workers.dev/itsanshgoyal?theme=dark&font=baloo&extension=null)
