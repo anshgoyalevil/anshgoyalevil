@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="GitHub" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right"/>
+<img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" align="right"/>
 
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Technology, Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Java/Kotlin.\
