@@ -21,5 +21,3 @@
 ## Find me around the web 🌎
 - Practising on <a href="https://www.codeforces.com/profile/127001evil/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/thisisanshg/">LinkedIn</a> 😇
-
-[![anshgoyalevil's GitHub | Stats](https://stats.quine.sh/anshgoyalevil/github?theme=dark)](https://quine.sh)
