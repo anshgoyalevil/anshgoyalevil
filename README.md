@@ -26,5 +26,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/94157520/231779113-45f2c060-005c-4345-85c8-5e8c75b670c3.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/94157520/231779133-cb4bcef8-454c-43c4-b53f-5ed9c929b2db.png">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/94157520/231779133-cb4bcef8-454c-43c4-b53f-5ed9c929b2db.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="">
 </picture>
