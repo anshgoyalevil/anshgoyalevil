@@ -21,10 +21,3 @@
 ## Find me around the web 🌎
 - Practising on <a href="https://www.codeforces.com/profile/127001evil/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/thisisanshg/">LinkedIn</a> 😇
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anshgoyalevil/anshgoyalevil/blob/main/Meshery-celebration-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anshgoyalevil/anshgoyalevil/blob/main/Meshery-celebration-Light.svg">
-  <img alt="Meshery Logo" src="">
-  </picture>
