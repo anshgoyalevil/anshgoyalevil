@@ -17,9 +17,9 @@
 ✉️ &nbsp;You can shoot me an email at anshgoyal1704@gmail.com! I'll try to respond as soon as I can.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/meshery/meshery-osm/master/.github/welcome/meshery-celebration-light.svg](https://raw.githubusercontent.com/meshery/meshery-osm/4a1b7ee702a56965c8eaa1b7965ac1a0487a7266/.github/welcome/meshery-celebration-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/meshery/meshery-osm/master/.github/welcome/meshery-celebration-dark.svg](https://raw.githubusercontent.com/meshery/meshery-osm/4a1b7ee702a56965c8eaa1b7965ac1a0487a7266/.github/welcome/meshery-celebration-dark.svg)">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meshery/meshery-osm/4a1b7ee702a56965c8eaa1b7965ac1a0487a7266/.github/welcome/meshery-celebration-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meshery/meshery-osm/4a1b7ee702a56965c8eaa1b7965ac1a0487a7266/.github/welcome/meshery-celebration-dark.svg">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   </picture>
 
 ## Find me around the web 🌎
