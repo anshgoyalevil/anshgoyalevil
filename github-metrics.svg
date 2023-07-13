@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1650" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1510" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    791k added, 8.84k removed
+                                    359k added, 8.51k removed
                                 </div>
                             </section>
                             <section>
@@ -363,6 +363,94 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Deployers-Delite/CodifyPlusCRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8230983</div>
+                                        <div class="message">change mod control buttons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a96cb01</div>
+                                        <div class="message">add mod routes for notes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d6e701</div>
+                                        <div class="message">add mod controllers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#486ef05</div>
+                                        <div class="message">add moderator pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2890eb</div>
+                                        <div class="message">add moderator pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43bfb38</div>
+                                        <div class="message">add moderator routes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c06e87</div>
+                                        <div class="message">change logo to gif</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Deployers-Delite/CodifyPlusCRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8230983</div>
+                                        <div class="message">change mod control buttons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a96cb01</div>
+                                        <div class="message">add mod routes for notes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d6e701</div>
+                                        <div class="message">add mod controllers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#486ef05</div>
+                                        <div class="message">add moderator pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2890eb</div>
+                                        <div class="message">add moderator pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43bfb38</div>
+                                        <div class="message">add moderator routes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c06e87</div>
+                                        <div class="message">change logo to gif</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -507,158 +595,12 @@ Co-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 31 commits in
-                                        <span class="repo">anshgoyalevil/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53e7517</div>
-                                        <div class="message">feat: adding unit tests for support-us,Testimonial and JobSummary component (#1813)
-
-
-Co-authored-by: akshatnema &lt;20bcs022@iiitdmj.ac.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd1c6bf</div>
-                                        <div class="message">chore(blog): docs June report (#1908)
-
-
-Co-authored-by: V Thulisile Sibanda &lt;66913810+thulieblack@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df1b59d</div>
-                                        <div class="message">feat: adding unit tests for dashboard folder (#1735)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7642c6a</div>
-                                        <div class="message">docs: add reachaadrika as a contributor for code (#1926)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bab25bc</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#1925)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4090841</div>
-                                        <div class="message">feat: adding unit tests for form and slack folders (#1775)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92b5e7a</div>
-                                        <div class="message">feat: adding unit tests for footer component (#1809)
-
-
-Co-authored-by: akshatnema &lt;20bcs022@iiitdmj.ac.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33b2479</div>
-                                        <div class="message">feat: adding unit tests for calendar modal and caption component  (#1811)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5e9c78</div>
-                                        <div class="message">feat: adding unit tests for sponsors component  (#1804)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7541555</div>
-                                        <div class="message">feat: adding unit tests for roadmap component  (#1791)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58b7142</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#1917)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66f948d</div>
-                                        <div class="message">docs(blog): june-2023 community update (#1880)
-
-
-Co-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;%0ACo-authored-by: Alejandra Quetzalli &lt;alejandra.olvera.novack@gmail.com&gt;%0ACo-authored-by: Alejandra Quetzalli &lt;alejandra.quetzalli@postman.com&gt;%0ACo-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee6fda9</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#1907)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cf4ae6</div>
-                                        <div class="message">Remove mcturco from CO (#1904)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48832ef</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#1903)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d7dbaa</div>
-                                        <div class="message">docs: add Shriansh2002 as a contributor for code (#1902)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5ec8a1</div>
-                                        <div class="message">style: dynamic logo colors for brands (#1894)
-
-
-Co-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d03d6cd</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#1898)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1af529</div>
-                                        <div class="message">docs(community): update latest maintainers list (#1897)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff50baa</div>
-                                        <div class="message">refactor: update maintainers list, introduce isTscMember key, and remove tsc_member.json file (#1722)
-
-
-Co-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1937 Call for [CODE] Maintainers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by derberg in <span class="repo">asyncapi/website</span></div>
-                                    <div class="comment">
-                                        @derberg
-I am very much interested in becoming a maintainer.
-Why me?
-
-While I was previously trying for GSoC'23 under the Palisadoes Foundation, I watched their 2 repositories (Talawa-API and Talawa-Admin) with
-                                        <code>All Activity</code>
-                                        notifications turned on. I used to receive around 100+ emails each day for 4-5 months. 50+ PRs and 70+ issues created, and 500+ comments and code reviews. Though, I was not selected due to some internal biasing, but learnt a lot from there 💪 
-
-I am also a Sub-Maintainer of https://github.com/meshery Repository.
-
-
-A glance at my GitHub stats:
-In case, the above SVG is not loading: (Raw) https://raw.githubusercontent.com/anshgoyalevil/anshgoyalevil/main/github-metrics.svg
-(Rendered) https://github.com/anshgoyalevil/anshgoyalevil/blob/main/github-metrics.svg
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2023, 00:34:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 01:38:05 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
