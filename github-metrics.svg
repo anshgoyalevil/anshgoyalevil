@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1054" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1021" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            551 issue comments
+                            552 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.29m added, 414k removed
+                                    1.25m added, 416k removed
                                 </div>
                             </section>
                             <section>
@@ -363,6 +363,89 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2726 SuperTicket: Documentation Changes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Sharpz7 in <span class="repo">armadaproject/armada</span></div>
+                                    <div class="comment">@Sharpz7 I would like to work on some of the child issues under this parent ticker. Can I go ahead and create a PR?</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">anshgoyalevil/armada</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#39f42a9</div>
+                                        <div class="message">update the broken link of system overview (#2693)
+
+* update the broken link of system overview
+
+Signed-off-by: Parthiba-Hazra &lt;parthibahazra02@gmail.com&gt;
+
+* Remove the system diagram link
+
+Signed-off-by: Parthiba-Hazra &lt;parthibahazra02@gmail.com&gt;
+
+---------
+
+Signed-off-by: Parthiba-Hazra &lt;parthibahazra02@gmail.com&gt;
+Co-authored-by: Adam McArthur &lt;46480158+Sharpz7@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">anshgoyalevil/armada</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#39f42a9</div>
+                                        <div class="message">update the broken link of system overview (#2693)
+
+* update the broken link of system overview
+
+Signed-off-by: Parthiba-Hazra &lt;parthibahazra02@gmail.com&gt;
+
+* Remove the system diagram link
+
+Signed-off-by: Parthiba-Hazra &lt;parthibahazra02@gmail.com&gt;
+
+---------
+
+Signed-off-by: Parthiba-Hazra &lt;parthibahazra02@gmail.com&gt;
+Co-authored-by: Adam McArthur &lt;46480158+Sharpz7@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -441,111 +524,12 @@ Currently when there are a lot of issues, we log megabytes a second - due to log
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">anshgoyalevil/armada</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1488d05</div>
-                                        <div class="message">Bump armada_airflow version to 0.5.0 (#2725)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1f25d9</div>
-                                        <div class="message">Change ArmadaOperator to take grpc channel arguments instead of alrea… (#2724)
-
-* Change ArmadaOperator to take grpc channel arguments instead of already constructed clients</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a7005f</div>
-                                        <div class="message">[armada-scheduler] Fix node selector being nil after JobSchedulingInfo update (#2696)
-
-* [armada-scheduler] Fix node selector being nil after JobSchedulingInfo updated
-
-Currently we rely on nodeSelector and annotations never being nil
- - If they are, we can't evict the job
-
-As the object is a proto object it is hard to ensure its never created with nil values
-
-For now just make sure any updates to job.JobSchedulingInfo result in a valid configuration
-
-* Fix test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73b0b71</div>
-                                        <div class="message">Set default executorTimeout in armada config (#2699)
-
-This is currently defaulting to having an infinite timeout
-
-Which if a cluster dies, any jobs on it when it died forever contribute to fair share calculations, which isn't an ideal default</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b93d31</div>
-                                        <div class="message">Tidy logging in pod_issuer_handler (#2700)
-
-* Tidy logging in pod_issuer_handler
-
-Primarily the aim here is to reduce logging, but also make it clearer from logs when an issue starts/ends
-
-Currently when there are a lot of issues, we log megabytes a second - due to logging the full issue of every pod - every 5 seconds
-
- - Skip issue detection again if pod already has issue registered
-   - During issue detection we log the full issue
- - Reduce how often we log the full issue
- - Log on issue resolution
- - Perform issue handling slightly less frequently
-
-* Log on issue registered
-
-* handle issues every 10s</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">rikatz/kubepug</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#251 [LFX Fall '23 Mentorship]: Extend use-case of detecting deprecated Kubernetes API usage</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jwmatthews in <span class="repo">konveyor/operator</span></div>
-                                    <div class="comment">@jwmatthews I would research on this issue and design a proposal for the LFX Fall'23. Thanks.</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2023, 10:35:13 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jul 2023, 11:38:08 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
