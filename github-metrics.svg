@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1070" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1033" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    3.59 GB used
+                                    3.58 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.34m added, 416k removed
+                                    1.30m added, 417k removed
                                 </div>
                             </section>
                             <section>
@@ -379,6 +379,429 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">test-branch</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d046c3</div>
+                                        <div class="message">Bump the babel group with 1 update (#1745)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f9c53c</div>
+                                        <div class="message">Bump terser from 5.19.0 to 5.19.3 (#1744)
+
+Bumps [terser](https://github.com/terser/terser) from 5.19.0 to 5.19.3.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/terser/terser/blob/v5.19.3/CHANGELOG.md"&gt;terser's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v5.19.3&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix side effect detection of &lt;code&gt;optional?.chains&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Add roundRect to domprops.js (&lt;a
+href="https://redirect.github.com/terser/terser/issues/1426"&gt;#1426&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v5.19.2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix performance hit from avoiding HTML comments in the output&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v5.19.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Better avoid outputting &lt;code&gt;&amp;lt;/script&amp;gt;&lt;/code&gt; and HTML
+comments.&lt;/li&gt;
+&lt;li&gt;Fix unused variables in class static blocks not being dropped
+correctly.&lt;/li&gt;
+&lt;li&gt;Fix sourcemap names of methods that are &lt;code&gt;async&lt;/code&gt; or
+&lt;code&gt;static&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/7f34b52f40ff0af27b16f3320f09c0119bd4e67d"&gt;&lt;code&gt;7f34b52&lt;/code&gt;&lt;/a&gt;
+5.19.3&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/840a5d59f57c3638784d7e6fc92f5b7e6e7da028"&gt;&lt;code&gt;840a5d5&lt;/code&gt;&lt;/a&gt;
+changelog&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/2e0b75a3f17e8f8101d97178b6732819d82d8075"&gt;&lt;code&gt;2e0b75a&lt;/code&gt;&lt;/a&gt;
+fix side effect detection of optional?.chains. Closes &lt;a
+href="https://redirect.github.com/terser/terser/issues/1430"&gt;#1430&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/27c0a3b47b429c605e2243df86044fc00815060f"&gt;&lt;code&gt;27c0a3b&lt;/code&gt;&lt;/a&gt;
+Added roundRect to domprops.js (&lt;a
+href="https://redirect.github.com/terser/terser/issues/1426"&gt;#1426&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/931f8a5fd548795faae0da1fa9eafa3f2ad1647b"&gt;&lt;code&gt;931f8a5&lt;/code&gt;&lt;/a&gt;
+Update LICENSE&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/8f220355859aa0dfa49cce2ed8ac2c3bf907f8a5"&gt;&lt;code&gt;8f22035&lt;/code&gt;&lt;/a&gt;
+5.19.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/d252faa443464ff58bd970242818c78b7a1c8fa8"&gt;&lt;code&gt;d252faa&lt;/code&gt;&lt;/a&gt;
+update changelog&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/ad93cce0670f1b62c283891fbe11bdbcb0664bfd"&gt;&lt;code&gt;ad93cce&lt;/code&gt;&lt;/a&gt;
+fix performance hit from avoiding HTML comments in the output. Closes &lt;a
+href="https://redirect.github.com/terser/terser/issues/1414"&gt;#1414&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/798135e04baddd94fea403cfaab4ba8b22b1b524"&gt;&lt;code&gt;798135e&lt;/code&gt;&lt;/a&gt;
+5.19.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/65aeccfbc0d3ea7d17fccd16c888a006c9b6537a"&gt;&lt;code&gt;65aeccf&lt;/code&gt;&lt;/a&gt;
+update changelog&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/terser/terser/compare/v5.19.0...v5.19.3"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=terser&amp;package-manager=npm_and_yarn&amp;previous-version=5.19.0&amp;new-version=5.19.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64d8226</div>
+                                        <div class="message">Bump prettier from 3.0.2 to 3.0.3 (#1742)
+
+Bumps [prettier](https://github.com/prettier/prettier) from 3.0.2 to
+3.0.3.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/prettier/prettier/releases"&gt;prettier's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;3.0.3&lt;/h2&gt;
+&lt;p&gt;🔗 &lt;a
+href="https://github.com/prettier/prettier/blob/main/CHANGELOG.md#303"&gt;Changelog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/prettier/prettier/blob/main/CHANGELOG.md"&gt;prettier's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;3.0.3&lt;/h1&gt;
+&lt;p&gt;&lt;a
+href="https://github.com/prettier/prettier/compare/3.0.2...3.0.3"&gt;diff&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Add &lt;code&gt;preferUnplugged: true&lt;/code&gt; to &lt;code&gt;package.json&lt;/code&gt;
+(&lt;a
+href="https://redirect.github.com/prettier/prettier/pull/15169"&gt;#15169&lt;/a&gt;
+by &lt;a href="https://github.com/fisker"&gt;&lt;code&gt;@​fisker&lt;/code&gt;&lt;/a&gt; and &lt;a
+href="https://github.com/so1ve"&gt;&lt;code&gt;@​so1ve&lt;/code&gt;&lt;/a&gt;)&lt;/h4&gt;
+&lt;p&gt;Prettier v3 uses dynamic imports, user &lt;a
+href="https://redirect.github.com/yarnpkg/berry/pull/5411#issuecomment-1523502224"&gt;will
+need to unplug Prettier&lt;/a&gt; when Yarn's PnP mode is enabled, add &lt;a
+href="https://yarnpkg.com/configuration/manifest#preferUnplugged"&gt;&lt;code&gt;preferUnplugged:
+true&lt;/code&gt;&lt;/a&gt; to &lt;code&gt;package.json&lt;/code&gt;, so Yarn will install
+Prettier as unplug by default.&lt;/p&gt;
+&lt;h4&gt;Support shared config that forbids &lt;code&gt;require()&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/prettier/prettier/pull/15233"&gt;#15233&lt;/a&gt;
+by &lt;a href="https://github.com/fisker"&gt;&lt;code&gt;@​fisker&lt;/code&gt;&lt;/a&gt;)&lt;/h4&gt;
+&lt;p&gt;If an external shared config package is used, and the package
+&lt;code&gt;exports&lt;/code&gt; don't have &lt;code&gt;require&lt;/code&gt; or
+&lt;code&gt;default&lt;/code&gt; export.&lt;/p&gt;
+&lt;p&gt;In Prettier 3.0.2 Prettier fails when attempt to
+&lt;code&gt;require()&lt;/code&gt; the package, and throws an error.&lt;/p&gt;
+&lt;pre lang="text"&gt;&lt;code&gt;Error [ERR_PACKAGE_PATH_NOT_EXPORTED]: No
+&amp;quot;exports&amp;quot; main defined in &amp;lt;packageName&amp;gt;/package.json
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;Allow argument of &lt;code&gt;require()&lt;/code&gt; to break (&lt;a
+href="https://redirect.github.com/prettier/prettier/pull/15256"&gt;#15256&lt;/a&gt;
+by &lt;a href="https://github.com/fisker"&gt;&lt;code&gt;@​fisker&lt;/code&gt;&lt;/a&gt;)&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;pre lang="jsx"&gt;&lt;code&gt;// Input
+const plugin = require(
+  global.STANDALONE
+    ? path.join(__dirname, &amp;quot;../standalone.js&amp;quot;)
+    : path.join(__dirname, &amp;quot;..&amp;quot;)
+);
+&lt;p&gt;// Prettier 3.0.2
+const plugin = require(global.STANDALONE
+? path.join(__dirname, &amp;quot;../standalone.js&amp;quot;)
+: path.join(__dirname, &amp;quot;..&amp;quot;));&lt;/p&gt;
+&lt;p&gt;// Prettier 3.0.3
+const plugin = require(
+global.STANDALONE
+? path.join(__dirname, &amp;quot;../standalone.js&amp;quot;)
+: path.join(__dirname, &amp;quot;..&amp;quot;)
+);
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;h4&gt;Do not print trailing commas in arrow function type parameter lists
+in &lt;code&gt;ts&lt;/code&gt; code blocks (&lt;a
+href="https://redirect.github.com/prettier/prettier/pull/15286"&gt;#15286&lt;/a&gt;
+by &lt;a
+href="https://github.com/sosukesuzuki"&gt;&lt;code&gt;@​sosukesuzuki&lt;/code&gt;&lt;/a&gt;)&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;pre lang="md"&gt;&lt;code&gt;&amp;lt;!-- Input --&amp;gt;
+```ts
+const foo = &amp;lt;T&amp;gt;() =&amp;gt; {}
+```
+&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/d5f31710b2fc25f3f472e86f9ee00a561a17ffa2"&gt;&lt;code&gt;d5f3171&lt;/code&gt;&lt;/a&gt;
+Release 3.0.3&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/a35008fb0a010f92c1002ee074c6a7f3c0d8da41"&gt;&lt;code&gt;a35008f&lt;/code&gt;&lt;/a&gt;
+Support shared config that forbids &lt;code&gt;require()&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15233"&gt;#15233&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/1ce97d13a3008bf6be1c17a374d2a80138a83fe1"&gt;&lt;code&gt;1ce97d1&lt;/code&gt;&lt;/a&gt;
+Support TypeScript 5.2 &lt;code&gt;using&lt;/code&gt; / &lt;code&gt;await using&lt;/code&gt;
+declaration (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15321"&gt;#15321&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/a73cfa0ec43d575d35dbf7779dcec3694d57b3e9"&gt;&lt;code&gt;a73cfa0&lt;/code&gt;&lt;/a&gt;
+Fix build script &lt;code&gt;--report&lt;/code&gt; option (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15323"&gt;#15323&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/941c6b3a3cda41e6940b1682437f12065c635dab"&gt;&lt;code&gt;941c6b3&lt;/code&gt;&lt;/a&gt;
+Minor refactor to &lt;code&gt;getSupportedFilesGlob&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15319"&gt;#15319&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/f6c9e9b0b8e5affce678dd8286be301b298a47f4"&gt;&lt;code&gt;f6c9e9b&lt;/code&gt;&lt;/a&gt;
+Assert uniqueness in language properties (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15320"&gt;#15320&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/288ea7e911f83d79453034681f951d307520e1e5"&gt;&lt;code&gt;288ea7e&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency webpack to v5.88.2 (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15147"&gt;#15147&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/6654451d9eced219f10fe8f763e9bd8c4e98a7b6"&gt;&lt;code&gt;6654451&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency webpack to v5.88.2 (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15148"&gt;#15148&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/d05964460d9681ea16f479f449b7ce042663ead9"&gt;&lt;code&gt;d059644&lt;/code&gt;&lt;/a&gt;
+chore(deps): update dependency fast-glob to v3.3.1 (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15001"&gt;#15001&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/prettier/prettier/commit/423011dcab464aaab18d233bbee34c37eb56bfd6"&gt;&lt;code&gt;423011d&lt;/code&gt;&lt;/a&gt;
+Minor refactor to &lt;code&gt;expandPatterns&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/prettier/prettier/issues/15317"&gt;#15317&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/prettier/prettier/compare/3.0.2...3.0.3"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=prettier&amp;package-manager=npm_and_yarn&amp;previous-version=3.0.2&amp;new-version=3.0.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+---------
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f5cb23</div>
+                                        <div class="message">Remove outdated .github/CODEOWNERS
+
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91969a7</div>
+                                        <div class="message">Upgrade antd to v4.15.6 (#1748)
+
+## Which problem is this PR solving?
+- part of: https://github.com/jaegertracing/jaeger-ui/pull/1734
+- This PR is a part of upgrading antd to latest version of 4.x
+
+## Description of the changes
+- Disabled the NavBar hover effect which was un-necessarily introduced
+- NavBar's height was increased internally. Fixed it to match previous
+height (48px)
+- The Monitor -&gt; EmptyPage was using the offsets to align content to the
+center, but it is not required now, as it is a default behavior
+- `SorterResult` API is removed, so used lodash in place of that
+- `CompareFn` typedef is no longer required
+- Mocked the `window.matchMedia`, since some tests were using it
+- `dataIndex` now requires an array instead of nested string. Ex:
+`"abc.def.ghi"` -&gt; `["abc", "def", "ghi"]`
+- Tests are updated according to these changes
+- Snapshots are updated according to internal changes in components
+
+## How was this change tested?
+- Manually, and using automated testing
+
+## What's next?
+- In the next PRs, the antd would be upgraded to 4.20.0 (or higher), to
+minimise the changes in a single PR.
+- New type errors would be introduced thereby, like NumberInput lookback
+changes, etc.
+
+## Checklist
+- [x] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [x] I have signed all commits
+- [x] I have added unit tests for the new functionality
+- [x] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">antd-4x1</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4485bff</div>
+                                        <div class="message">Merge branch 'jaegertracing:main' into main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
@@ -414,71 +837,12 @@ screen-capture.webm
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1748 Upgrade antd to v4.15.6</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by anshgoyalevil in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">
-                                        <i>I rebased #1636, which bumps antd even further - may fail on other issues</i>
-                                        Yes, antd requires another manual bump. The dependabot's PR would fail for now.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1748 Upgrade antd to v4.15.6</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by anshgoyalevil in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">
-                                        <i>Code coverage drop is due to this:  Is this a flaky test or the result of the upgrade?</i>
-                                        Don't know why but its giving 100 % coverage locally.
-
-The issue's is not with the test, but the codecov. I have seen this behaviour in many places.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1748 Upgrade antd to v4.15.6</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by anshgoyalevil in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">As far as I am seeing, it's giving the expected result. Not sure 100% though, as there is not a strict guide about nested row and cols.</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2023, 08:36:43 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Sept 2023, 09:37:40 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
