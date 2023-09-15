@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1063" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1110" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.22m added, 415k removed
+                                    1.30m added, 417k removed
                                 </div>
                             </section>
                             <section>
@@ -383,62 +383,714 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">upgrade-rrd</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d4fb18</div>
-                                        <div class="message">Merge branch 'jaegertracing:main' into main</div>
+                                        <div class="sha">#7ef6909</div>
+                                        <div class="message">Refactor Critical Path code to prevent it from ever throwing exceptions (#1785)
+
+Resolves #1779 
+
+In this PR switch statement is refactored to if-else block and covered
+all of our decision space.
+
+---------
+
+Signed-off-by: GLVS Kiriti &lt;glvskiriti2003369@gmail.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1784 [Bug]: Can not use search in service or Operation</span>
+                                    <div class="commit">
+                                        <div class="sha">#103fef5</div>
+                                        <div class="message">Handled the case in which child span starts before and ends after parent span. (#1780)</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by easayliu in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">@yurishkuro I think this is related to https://github.com/jaegertracing/jaeger-ui/pull/1737</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1784 [Bug]: Can not use search in service or Operation</span>
+                                    <div class="commit">
+                                        <div class="sha">#6ccf855</div>
+                                        <div class="message">[dev] Print suggestion on fixing prettier-lint errors (#1783)
+
+## Which problem is this PR solving?
+- When prettier-lint fails, it's rather cryptic and not clear how to
+proceed
+
+## Description of the changes
+- Print an explicit message saying "please run ..."
+
+## How was this change tested?
+- locally
+
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by easayliu in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">@yurishkuro I think this is related to https://github.com/jaegertracing/jaeger-ui/pull/1737</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1784 [Bug]: Can not use search in service or Operation</span>
+                                    <div class="commit">
+                                        <div class="sha">#0e3ca3f</div>
+                                        <div class="message">Bump the jest group with 3 updates (#1782)
+
+Bumps the jest group with 3 updates:
+[@testing-library/jest-dom](https://github.com/testing-library/jest-dom),
+[babel-jest](https://github.com/jestjs/jest/tree/HEAD/packages/babel-jest)
+and
+[jest-environment-jsdom](https://github.com/jestjs/jest/tree/HEAD/packages/jest-environment-jsdom).
+
+Updates `@testing-library/jest-dom` from 6.1.2 to 6.1.3
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/testing-library/jest-dom/releases"&gt;&lt;code&gt;@​testing-library/jest-dom&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.1.3&lt;/h2&gt;
+&lt;h2&gt;&lt;a
+href="https://github.com/testing-library/jest-dom/compare/v6.1.2...v6.1.3"&gt;6.1.3&lt;/a&gt;
+(2023-09-06)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;proper &lt;code&gt;@​jest/globals&lt;/code&gt; import (&lt;a
+href="https://redirect.github.com/testing-library/jest-dom/issues/530"&gt;#530&lt;/a&gt;)
+(&lt;a
+href="https://github.com/testing-library/jest-dom/commit/5b492ace23d52b7cb7d3f91913ed0b5311905a26"&gt;5b492ac&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/testing-library/jest-dom/commit/5b492ace23d52b7cb7d3f91913ed0b5311905a26"&gt;&lt;code&gt;5b492ac&lt;/code&gt;&lt;/a&gt;
+fix: proper &lt;code&gt;@​jest/globals&lt;/code&gt; import (&lt;a
+href="https://redirect.github.com/testing-library/jest-dom/issues/530"&gt;#530&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/testing-library/jest-dom/compare/v6.1.2...v6.1.3"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `babel-jest` from 29.6.4 to 29.7.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/jestjs/jest/releases"&gt;babel-jest's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v29.7.0&lt;/h2&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[create-jest]&lt;/code&gt; Add &lt;code&gt;npm init&lt;/code&gt; / &lt;code&gt;yarn
+create&lt;/code&gt; initialiser for Jest projects (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-validate]&lt;/code&gt; Allow deprecation warnings for unknown
+options (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14499"&gt;#14499&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-resolver]&lt;/code&gt; Replace unmatched capture groups in
+&lt;code&gt;moduleNameMapper&lt;/code&gt; with empty string instead of
+&lt;code&gt;undefined&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;#14507&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-snapshot]&lt;/code&gt; Allow for strings as well as template
+literals in inline snapshots (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@jest/test-sequencer]&lt;/code&gt; Calculate test runtime if
+&lt;code&gt;perStats.duration&lt;/code&gt; is missing (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14473"&gt;#14473&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Performance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@jest/create-cache-key-function]&lt;/code&gt; Cache access of
+&lt;code&gt;NODE_ENV&lt;/code&gt; and &lt;code&gt;BABEL_ENV&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14455"&gt;#14455&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Chore &amp;amp; Maintenance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-cli]&lt;/code&gt; Move internal config initialisation logic to
+the &lt;code&gt;create-jest&lt;/code&gt; package (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/bawjensen"&gt;&lt;code&gt;@​bawjensen&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;jestjs/jest#14465&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/malaviya-parth"&gt;&lt;code&gt;@​malaviya-parth&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14467"&gt;jestjs/jest#14467&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/niklasholm"&gt;&lt;code&gt;@​niklasholm&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;jestjs/jest#14507&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/jestjs/jest/compare/v29.6.4...v29.7.0"&gt;https://github.com/jestjs/jest/compare/v29.6.4...v29.7.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/jestjs/jest/blob/main/CHANGELOG.md"&gt;babel-jest's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;29.7.0&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[create-jest]&lt;/code&gt; Add &lt;code&gt;npm init&lt;/code&gt; / &lt;code&gt;yarn
+create&lt;/code&gt; initialiser for Jest projects (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-validate]&lt;/code&gt; Allow deprecation warnings for unknown
+options (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14499"&gt;#14499&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-resolver]&lt;/code&gt; Replace unmatched capture groups in
+&lt;code&gt;moduleNameMapper&lt;/code&gt; with empty string instead of
+&lt;code&gt;undefined&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;#14507&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-snapshot]&lt;/code&gt; Allow for strings as well as template
+literals in inline snapshots (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@jest/test-sequencer]&lt;/code&gt; Calculate test runtime if
+&lt;code&gt;perStats.duration&lt;/code&gt; is missing (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14473"&gt;#14473&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Performance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@jest/create-cache-key-function]&lt;/code&gt; Cache access of
+&lt;code&gt;NODE_ENV&lt;/code&gt; and &lt;code&gt;BABEL_ENV&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14455"&gt;#14455&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Chore &amp;amp; Maintenance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-cli]&lt;/code&gt; Move internal config initialisation logic to
+the &lt;code&gt;create-jest&lt;/code&gt; package (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/jestjs/jest/commit/4e56991693da7cd4c3730dc3579a1dd1403ee630"&gt;&lt;code&gt;4e56991&lt;/code&gt;&lt;/a&gt;
+v29.7.0&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/jestjs/jest/commits/v29.7.0/packages/babel-jest"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `jest-environment-jsdom` from 29.6.4 to 29.7.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/jestjs/jest/releases"&gt;jest-environment-jsdom's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v29.7.0&lt;/h2&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[create-jest]&lt;/code&gt; Add &lt;code&gt;npm init&lt;/code&gt; / &lt;code&gt;yarn
+create&lt;/code&gt; initialiser for Jest projects (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-validate]&lt;/code&gt; Allow deprecation warnings for unknown
+options (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14499"&gt;#14499&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-resolver]&lt;/code&gt; Replace unmatched capture groups in
+&lt;code&gt;moduleNameMapper&lt;/code&gt; with empty string instead of
+&lt;code&gt;undefined&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;#14507&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-snapshot]&lt;/code&gt; Allow for strings as well as template
+literals in inline snapshots (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@jest/test-sequencer]&lt;/code&gt; Calculate test runtime if
+&lt;code&gt;perStats.duration&lt;/code&gt; is missing (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14473"&gt;#14473&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Performance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@jest/create-cache-key-function]&lt;/code&gt; Cache access of
+&lt;code&gt;NODE_ENV&lt;/code&gt; and &lt;code&gt;BABEL_ENV&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14455"&gt;#14455&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Chore &amp;amp; Maintenance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-cli]&lt;/code&gt; Move internal config initialisation logic to
+the &lt;code&gt;create-jest&lt;/code&gt; package (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/bawjensen"&gt;&lt;code&gt;@​bawjensen&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;jestjs/jest#14465&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/malaviya-parth"&gt;&lt;code&gt;@​malaviya-parth&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14467"&gt;jestjs/jest#14467&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/niklasholm"&gt;&lt;code&gt;@​niklasholm&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;jestjs/jest#14507&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/jestjs/jest/compare/v29.6.4...v29.7.0"&gt;https://github.com/jestjs/jest/compare/v29.6.4...v29.7.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/jestjs/jest/blob/main/CHANGELOG.md"&gt;jest-environment-jsdom's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;29.7.0&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[create-jest]&lt;/code&gt; Add &lt;code&gt;npm init&lt;/code&gt; / &lt;code&gt;yarn
+create&lt;/code&gt; initialiser for Jest projects (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-validate]&lt;/code&gt; Allow deprecation warnings for unknown
+options (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14499"&gt;#14499&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-resolver]&lt;/code&gt; Replace unmatched capture groups in
+&lt;code&gt;moduleNameMapper&lt;/code&gt; with empty string instead of
+&lt;code&gt;undefined&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;#14507&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-snapshot]&lt;/code&gt; Allow for strings as well as template
+literals in inline snapshots (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@jest/test-sequencer]&lt;/code&gt; Calculate test runtime if
+&lt;code&gt;perStats.duration&lt;/code&gt; is missing (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14473"&gt;#14473&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Performance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@jest/create-cache-key-function]&lt;/code&gt; Cache access of
+&lt;code&gt;NODE_ENV&lt;/code&gt; and &lt;code&gt;BABEL_ENV&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14455"&gt;#14455&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Chore &amp;amp; Maintenance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-cli]&lt;/code&gt; Move internal config initialisation logic to
+the &lt;code&gt;create-jest&lt;/code&gt; package (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/jestjs/jest/commit/4e56991693da7cd4c3730dc3579a1dd1403ee630"&gt;&lt;code&gt;4e56991&lt;/code&gt;&lt;/a&gt;
+v29.7.0&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/jestjs/jest/commits/v29.7.0/packages/jest-environment-jsdom"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by easayliu in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">@easayliu Could you please provide some steps to reproduce the issue locally? As in my local setup, it is working with v1.33 also.</div>
+                                    <div class="commit">
+                                        <div class="sha">#19cccf4</div>
+                                        <div class="message">Bump actions/checkout from 3 to 4 (#1757)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 3 to
+4.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/actions/checkout/releases"&gt;actions/checkout's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v4.0.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default runtime to node20 by &lt;a
+href="https://github.com/takost"&gt;&lt;code&gt;@​takost&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1436"&gt;actions/checkout#1436&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support fetching without the --progress option by &lt;a
+href="https://github.com/simonbaird"&gt;&lt;code&gt;@​simonbaird&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1067"&gt;actions/checkout#1067&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Release 4.0.0 by &lt;a
+href="https://github.com/takost"&gt;&lt;code&gt;@​takost&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1447"&gt;actions/checkout#1447&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/takost"&gt;&lt;code&gt;@​takost&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1436"&gt;actions/checkout#1436&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/simonbaird"&gt;&lt;code&gt;@​simonbaird&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1067"&gt;actions/checkout#1067&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/actions/checkout/compare/v3...v4.0.0"&gt;https://github.com/actions/checkout/compare/v3...v4.0.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v3.6.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mark test scripts with Bash'isms to be run via Bash by &lt;a
+href="https://github.com/dscho"&gt;&lt;code&gt;@​dscho&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1377"&gt;actions/checkout#1377&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add option to fetch tags even if fetch-depth &amp;gt; 0 by &lt;a
+href="https://github.com/RobertWieczoreck"&gt;&lt;code&gt;@​RobertWieczoreck&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/579"&gt;actions/checkout#579&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Release 3.6.0 by &lt;a
+href="https://github.com/luketomlinson"&gt;&lt;code&gt;@​luketomlinson&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1437"&gt;actions/checkout#1437&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/RobertWieczoreck"&gt;&lt;code&gt;@​RobertWieczoreck&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/579"&gt;actions/checkout#579&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/luketomlinson"&gt;&lt;code&gt;@​luketomlinson&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1437"&gt;actions/checkout#1437&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/actions/checkout/compare/v3.5.3...v3.6.0"&gt;https://github.com/actions/checkout/compare/v3.5.3...v3.6.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v3.5.3&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix: Checkout Issue in self hosted runner due to faulty submodule
+check-ins by &lt;a
+href="https://github.com/megamanics"&gt;&lt;code&gt;@​megamanics&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1196"&gt;actions/checkout#1196&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix typos found by codespell by &lt;a
+href="https://github.com/DimitriPapadopoulos"&gt;&lt;code&gt;@​DimitriPapadopoulos&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1287"&gt;actions/checkout#1287&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add support for sparse checkouts by &lt;a
+href="https://github.com/dscho"&gt;&lt;code&gt;@​dscho&lt;/code&gt;&lt;/a&gt; and &lt;a
+href="https://github.com/dfdez"&gt;&lt;code&gt;@​dfdez&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1369"&gt;actions/checkout#1369&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Release v3.5.3 by &lt;a
+href="https://github.com/TingluoHuang"&gt;&lt;code&gt;@​TingluoHuang&lt;/code&gt;&lt;/a&gt;
+in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1376"&gt;actions/checkout#1376&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/megamanics"&gt;&lt;code&gt;@​megamanics&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1196"&gt;actions/checkout#1196&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/DimitriPapadopoulos"&gt;&lt;code&gt;@​DimitriPapadopoulos&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1287"&gt;actions/checkout#1287&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/dfdez"&gt;&lt;code&gt;@​dfdez&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1369"&gt;actions/checkout#1369&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/actions/checkout/compare/v3...v3.5.3"&gt;https://github.com/actions/checkout/compare/v3...v3.5.3&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v3.5.2&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix: Use correct API url / endpoint in GHES by &lt;a
+href="https://github.com/fhammerl"&gt;&lt;code&gt;@​fhammerl&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1289"&gt;actions/checkout#1289&lt;/a&gt;
+based on &lt;a
+href="https://redirect.github.com/actions/checkout/issues/1286"&gt;#1286&lt;/a&gt;
+by &lt;a href="https://github.com/1newsr"&gt;&lt;code&gt;@​1newsr&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/actions/checkout/compare/v3.5.1...v3.5.2"&gt;https://github.com/actions/checkout/compare/v3.5.1...v3.5.2&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v3.5.1&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve checkout performance on Windows runners by upgrading
+&lt;code&gt;@​actions/github&lt;/code&gt; dependency by &lt;a
+href="https://github.com/BrettDong"&gt;&lt;code&gt;@​BrettDong&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1246"&gt;actions/checkout#1246&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/BrettDong"&gt;&lt;code&gt;@​BrettDong&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1246"&gt;actions/checkout#1246&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/actions/checkout/blob/main/CHANGELOG.md"&gt;actions/checkout's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;v4.0.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1067"&gt;Support
+fetching without the --progress option&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1436"&gt;Update to
+node20&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.6.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1377"&gt;Fix: Mark
+test scripts with Bash'isms to be run via Bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/579"&gt;Add
+option to fetch tags even if fetch-depth &amp;gt; 0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.5.3&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1196"&gt;Fix:
+Checkout fail in self-hosted runners when faulty submodule are
+checked-in&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/1287"&gt;Fix
+typos found by codespell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/1369"&gt;Add
+support for sparse checkouts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.5.2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/1289"&gt;Fix
+api endpoint for GHES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.5.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/1246"&gt;Fix
+slow checkout on Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.5.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/1237"&gt;Add
+new public key for known_hosts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.4.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1209"&gt;Upgrade
+codeql actions to v2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1210"&gt;Upgrade
+dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1225"&gt;Upgrade
+&lt;code&gt;@​actions/io&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.3.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1045"&gt;Implement
+branch list using callbacks from exec function&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/1050"&gt;Add
+in explicit reference to private checkout options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Fix comment typos (that got added in &lt;a
+href="https://redirect.github.com/actions/checkout/issues/770"&gt;#770&lt;/a&gt;)](&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1057"&gt;actions/checkout#1057&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.2.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/942"&gt;Add
+GitHub Action to perform release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/967"&gt;Fix
+status badge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1002"&gt;Replace
+datadog/squid with ubuntu/squid Docker image&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/964"&gt;Wrap
+pipeline commands for submoduleForeach in quotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1029"&gt;Update
+&lt;code&gt;@​actions/io&lt;/code&gt; to 1.1.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1039"&gt;Upgrading
+version to 3.2.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.1.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/939"&gt;Use
+&lt;code&gt;@​actions/core&lt;/code&gt; &lt;code&gt;saveState&lt;/code&gt; and
+&lt;code&gt;getState&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/922"&gt;Add
+&lt;code&gt;github-server-url&lt;/code&gt; input&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.0.2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://redirect.github.com/actions/checkout/pull/770"&gt;Add
+input &lt;code&gt;set-safe-directory&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v3.0.1&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/3df4ab11eba7bda6032a0b82a6bb43b11571feac"&gt;&lt;code&gt;3df4ab1&lt;/code&gt;&lt;/a&gt;
+Release 4.0.0 (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1447"&gt;#1447&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/8b5e8b768746b50394015010d25e690bfab9dfbc"&gt;&lt;code&gt;8b5e8b7&lt;/code&gt;&lt;/a&gt;
+Support fetching without the --progress option (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1067"&gt;#1067&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/97a652b80035363df47baee5031ec8670b8878ac"&gt;&lt;code&gt;97a652b&lt;/code&gt;&lt;/a&gt;
+Update default runtime to node20 (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1436"&gt;#1436&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/actions/checkout/compare/v3...v4"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/checkout&amp;package-manager=github_actions&amp;previous-version=3&amp;new-version=4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3c23ab</div>
+                                        <div class="message">Upgrade to Node 18 (#1776)
+
+## Which problem is this PR solving?
+- Resolves #1775
+
+---------
+
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#777e670</div>
+                                        <div class="message">[fix] Extend try/catch for critical path (#1778)
+
+## Which problem is this PR solving?
+- CP logic was still failing randomly in tests
+
+## Description of the changes
+- Move try/catch to a larger portion
+
+## How was this change tested?
+- CI
+
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17eb291</div>
+                                        <div class="message">Convert utils/TreeNode.js and selectors/trace.js to Typescript (#1777)
+
+## Which problem is this PR solving?
+- missing typing
+
+## Description of the changes
+- convert two files to TS and fix compile/lint errors in the callers
+
+---------
+
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -450,14 +1102,74 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#974eab5</div>
+                                        <div class="message">Merge branch 'jaegertracing:main' into main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 14 commits in
                                         <span class="repo">anshgoyalevil/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">i18n-docs</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be0a115</div>
+                                        <div class="sha">#c4490ef</div>
                                         <div class="message">Merge branch 'master' into i18n-docs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 15 commits in
+                                        <span class="repo">anshgoyalevil/website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">i18n-link</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0062e7d</div>
+                                        <div class="message">Merge branch 'master' into i18n-link</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d4fb18</div>
+                                        <div class="message">Merge branch 'jaegertracing:main' into main</div>
                                     </div>
                                 </div>
                             </section>
@@ -467,7 +1179,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2023, 08:37:12 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2023, 09:38:01 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
