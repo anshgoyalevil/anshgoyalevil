@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1008" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1052" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.number{color:#2777aa}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            45 Pull requests reviewed
+                            46 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            715 issue comments
+                            716 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.10m added, 412k removed
+                                    1.15m added, 412k removed
                                 </div>
                             </section>
                             <section>
@@ -375,60 +375,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#4799 [Feature]: (Re)Introduce changelog-related labels and require them for PRs</span>
+                                        <span class="issue">#4854 Use changelog:dependencies label for dependabot PRs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by yurishkuro in <span class="repo">jaegertracing/jaeger</span></div>
                                     <div class="comment">
-                                        @yurishkuro Did you used the
-                                        <code>--skip-dependabot</code>
-                                        flag?
-We can change the dependabot labelling settings but that would defeat the purpose of --skip-dependabot flag
+                                        Not any of the external libs.
+                                        <code>progress_iterator = 0 # To be declared before commit in commits loop</code>
+                                        <code class="language-multiline language-py" xml:space="preserve">progress <span class="token operator">=</span> <span class="token punctuation">(</span>progress_iterator <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">)</span> <span class="token operator">/</span> num_commits
+        percentage <span class="token operator">=</span> progress <span class="token operator">*</span> <span class="token number">100</span>
+<span class="token trimmed">(4 more lines were trimmed)</span></code>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">anshgoyalevil/jaeger</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d1b17c</div>
-                                        <div class="message">add newline after titles
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#4850 CI: modify release-notes.py to auto-categorize pull requests based on labels</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by anshgoyalevil in <span class="repo">jaegertracing/jaeger</span></div>
-                                    <div class="comment">Done 🚀</div>
                                 </div>
                             </section>
                         </div>
@@ -440,11 +402,44 @@ Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#4850 CI: modify release-notes.py to auto-categorize pull requests based on labels</span>
+                                        <span class="issue">#4854 Use changelog:dependencies label for dependabot PRs</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">jaegertracing/jaeger</span></div>
+                                    <div>opened by yurishkuro in <span class="repo">jaegertracing/jaeger</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#4854 Use changelog:dependencies label for dependabot PRs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yurishkuro in <span class="repo">jaegertracing/jaeger</span></div>
+                                    <div class="comment">How about this,</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#4854 Use changelog:dependencies label for dependabot PRs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yurishkuro in <span class="repo">jaegertracing/jaeger</span></div>
                                 </div>
                             </section>
                         </div>
@@ -455,15 +450,228 @@ Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 4 commits in
                                         <span class="repo">anshgoyalevil/jaeger</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#de15d68</div>
-                                        <div class="message">make improvements
+                                        <div class="sha">#2769d97</div>
+                                        <div class="message">Bump google.golang.org/grpc from 1.58.3 to 1.59.0 (#4856)
+
+Bumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from
+1.58.3 to 1.59.0.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/7765221f4bf6104973db7946d56936cf838cad46"&gt;&lt;code&gt;7765221&lt;/code&gt;&lt;/a&gt;
+Change version to 1.59.0 (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6695"&gt;#6695&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/e88f12e0517d465cb892ef58e1debf10b4e5607f"&gt;&lt;code&gt;e88f12e&lt;/code&gt;&lt;/a&gt;
+server: prohibit more than MaxConcurrentStreams handlers from running at
+once...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/be7919c3dc3c26f54489c778af7bbfea608ad9bc"&gt;&lt;code&gt;be7919c&lt;/code&gt;&lt;/a&gt;
+transport: Pass Header metadata to tap handle. (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6652"&gt;#6652&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/e3f1514cdb8fcbcacc30b53473042dbb40a54791"&gt;&lt;code&gt;e3f1514&lt;/code&gt;&lt;/a&gt;
+Reapply &amp;quot;status: fix/improve status handling (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6662"&gt;#6662&lt;/a&gt;)&amp;quot;
+(&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6673"&gt;#6673&lt;/a&gt;)
+(&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6688"&gt;#6688&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/696faa982cdc0914929a64848a8ff3bf7a924166"&gt;&lt;code&gt;696faa9&lt;/code&gt;&lt;/a&gt;
+client: add a test for NewSubConn / StateListener / cc.Close racing (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6678"&gt;#6678&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/318c717a659ec55a2f92e1c84313153dd278bf55"&gt;&lt;code&gt;318c717&lt;/code&gt;&lt;/a&gt;
+readme: fix badges (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6687"&gt;#6687&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/39972fdd744873a2b829ab98962ab0e85800d591"&gt;&lt;code&gt;39972fd&lt;/code&gt;&lt;/a&gt;
+github: add code coverage with codecov.io (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6676"&gt;#6676&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/93dbc059f561340a14aeb96ea2925b9a669c5673"&gt;&lt;code&gt;93dbc05&lt;/code&gt;&lt;/a&gt;
+xds: move virtual host matcher test to the xdsresource package (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6680"&gt;#6680&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/2c00469782f1dd8c7456dcc7238a957781246e84"&gt;&lt;code&gt;2c00469&lt;/code&gt;&lt;/a&gt;
+github: update actions/setup-go and actions/checkout (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6675"&gt;#6675&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/grpc/grpc-go/commit/1f73ed5fcf75b3e464c83ab17fc73144e2161620"&gt;&lt;code&gt;1f73ed5&lt;/code&gt;&lt;/a&gt;
+Replace the gRFC pull request with the permanent link. (&lt;a
+href="https://redirect.github.com/grpc/grpc-go/issues/6674"&gt;#6674&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/grpc/grpc-go/compare/v1.58.3...v1.59.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Most Recent Ignore Conditions Applied to This Pull
+Request&lt;/summary&gt;
+
+| Dependency Name | Ignore Conditions |
+| --- | --- |
+| google.golang.org/grpc | [&gt;= 1.35.a, &lt; 1.36] |
+| google.golang.org/grpc | [&gt;= 1.37.a, &lt; 1.38] |
+&lt;/details&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=google.golang.org/grpc&amp;package-manager=go_modules&amp;previous-version=1.58.3&amp;new-version=1.59.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0c7dd3</div>
+                                        <div class="message">Use changelog:dependencies label for dependabot PRs (#4854)
+
+## Which problem is this PR solving?
+- Resolves #4799
+
+## Description of the changes
+- Configure dependabot to use `changelog:dependencies` label
+- Skip that label in release notes
+- Print progress when loading PRs
+
+## How was this change tested?
+- local run
+
+## Checklist
+- [ ] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [ ] I have signed all commits
+- [ ] I have added unit tests for the new functionality
+- [ ] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6919fd7</div>
+                                        <div class="message">Fix batchProcessor to set correct span format flags (#4796)
+
+## Which problem is this PR solving?
+
+Recently I've noticed that collector sends wrong tags "format" and
+"transport" in metric `jaeger_collector_spans_received_total`.
+
+Root cause: when batchProcessor was extended to be called from OTLP
+Receiver, it was given SpanOptions parameter that could specify a
+different span format OTLP, vs. always setting Proto. But the processor
+was still using hardcoded Proto format when invoking the next processor.
+
+## How was this change tested?
+Added unit test
+
+## Checklist
+- [ x ] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [ x ] I have signed all commits
+- [ - ] I have added unit tests for the new functionality (not needed)
+- [ x ] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Alexander Kozlov &lt;aleksandr.kozlov@workato.com&gt;
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;
+Co-authored-by: Yuri Shkuro &lt;yurishkuro@users.noreply.github.com&gt;
+Co-authored-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cd109f</div>
+                                        <div class="message">CI: modify release-notes.py to auto-categorize pull requests based on labels (#4850)
+
+## Which problem is this PR solving?
+- fixes: https://github.com/jaegertracing/jaeger/issues/4799
+
+## Description of the changes
+- The modifications in release-notes.py would now make sure that the
+final results printed to the console are in a categorized manner which
+could be just copy-pasted to release-notes.
+- The `categories` object could be modified to accommodate more
+categories along with some meaningful titles like `Changes related to
+CI: changelog:ci`
+
+## How was this change tested?
+- Locally, on the jaegertracing/jaeger repo.
+
+![image](https://github.com/jaegertracing/jaeger/assets/94157520/ba1cb4a8-dcf9-4b25-bad4-ba812d7772fa)
+
+
+## Checklist
+- [x] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [x] I have signed all commits
+- [x] I have added unit tests for the new functionality
+- [x] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
 
 Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
                                     </div>
@@ -475,7 +683,7 @@ Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2023, 08:37:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2023, 09:38:10 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
