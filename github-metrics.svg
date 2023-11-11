@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1070" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1016" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            156 Pull requests opened
+                            157 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.39m added, 482k removed
+                                    1.40m added, 482k removed
                                 </div>
                             </section>
                             <section>
@@ -371,54 +371,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#1964 [Bug]: dependabot updates are broken</span>
+                                        Opened
+                                        <span class="issue">#1970 Setup router compatibility package for react-router-dom v6 upgrade</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by yurishkuro in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">Finally you did it 🎉🎉🎉</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1964 [Bug]: dependabot updates are broken</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by yurishkuro in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">I think that depends upon the upstream jest version at which we closed the PR and not upon the version we are at.
-So for example, yesterday, jest was a 29.7 in upstream, but we closed it. So when jest would be at 29.8 in upstream, maybe we would get a PR</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1968 Remove yarn resolution for @types/react</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by anshgoyalevil in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">
-                                        <i>I am fine with this PR, but I noticed that you're bumping the lib manually. The latest dependabot PR did bump the lock file for it, but not the explicitly declared version. That was a strange behavior imo, usually it does both, so I am wondering if the resolution is what prevented it from bumping explicit deps. What if we try this PR with removing resolution but without bumping explicit deps?</i>
-                                        Hmm. I agree with this. We should leave the upgrade on depandabot to see its behavior now
-                                    </div>
+                                    <div> in <span class="repo">jaegertracing/jaeger-ui</span></div>
+                                    <div>3 files changed <span class="code">++36 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -434,10 +396,10 @@ So for example, yesterday, jest was a 29.7 in upstream, but we closed it. So whe
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">tr</span></div>
+                                    <div>on branch <span class="code">rc6</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8335292</div>
-                                        <div class="message">revert upgrade
+                                        <div class="sha">#93671ba</div>
+                                        <div class="message">setup router compatibility package
 
 Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
                                     </div>
@@ -448,16 +410,377 @@ Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#1968 Remove yarn resolution for @types/react</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by anshgoyalevil in <span class="repo">jaegertracing/jaeger-ui</span></div>
-                                    <div class="comment">This part gets modified too when depandabot tries to upgrade deps even with resolution. Strange why this didn't happen with PR https://github.com/jaegertracing/jaeger-ui/pull/1967</div>
+                                    <div>on branch <span class="code">rc6</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c4d67d8</div>
+                                        <div class="message">Bump jest from 29.6.2 to 29.7.0 (#1969)
+
+Bumps [jest](https://github.com/jestjs/jest/tree/HEAD/packages/jest)
+from 29.6.2 to 29.7.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/jestjs/jest/releases"&gt;jest's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v29.7.0&lt;/h2&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[create-jest]&lt;/code&gt; Add &lt;code&gt;npm init&lt;/code&gt; / &lt;code&gt;yarn
+create&lt;/code&gt; initialiser for Jest projects (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-validate]&lt;/code&gt; Allow deprecation warnings for unknown
+options (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14499"&gt;#14499&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-resolver]&lt;/code&gt; Replace unmatched capture groups in
+&lt;code&gt;moduleNameMapper&lt;/code&gt; with empty string instead of
+&lt;code&gt;undefined&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;#14507&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-snapshot]&lt;/code&gt; Allow for strings as well as template
+literals in inline snapshots (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@jest/test-sequencer]&lt;/code&gt; Calculate test runtime if
+&lt;code&gt;perStats.duration&lt;/code&gt; is missing (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14473"&gt;#14473&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Performance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@jest/create-cache-key-function]&lt;/code&gt; Cache access of
+&lt;code&gt;NODE_ENV&lt;/code&gt; and &lt;code&gt;BABEL_ENV&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14455"&gt;#14455&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Chore &amp;amp; Maintenance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-cli]&lt;/code&gt; Move internal config initialisation logic to
+the &lt;code&gt;create-jest&lt;/code&gt; package (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/bawjensen"&gt;&lt;code&gt;@​bawjensen&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;jestjs/jest#14465&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/malaviya-parth"&gt;&lt;code&gt;@​malaviya-parth&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14467"&gt;jestjs/jest#14467&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/niklasholm"&gt;&lt;code&gt;@​niklasholm&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;jestjs/jest#14507&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/jestjs/jest/compare/v29.6.4...v29.7.0"&gt;https://github.com/jestjs/jest/compare/v29.6.4...v29.7.0&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v29.6.4&lt;/h2&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-core]&lt;/code&gt; Fix typo in &lt;code&gt;scheduleAndRun&lt;/code&gt;
+performance marker (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14434"&gt;#14434&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-environment-node]&lt;/code&gt; Make sure &lt;code&gt;atob&lt;/code&gt; and
+&lt;code&gt;btoa&lt;/code&gt; are writeable in Node 20 (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14446"&gt;#14446&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-worker]&lt;/code&gt; Additional error wrapper for
+&lt;code&gt;parentPort.postMessage&lt;/code&gt; to fix unhandled
+&lt;code&gt;DataCloneError&lt;/code&gt;. (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14437"&gt;#14437&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/stanleyume"&gt;&lt;code&gt;@​stanleyume&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14424"&gt;jestjs/jest#14424&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/dj-stormtrooper"&gt;&lt;code&gt;@​dj-stormtrooper&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14437"&gt;jestjs/jest#14437&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/thw0rted"&gt;&lt;code&gt;@​thw0rted&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14444"&gt;jestjs/jest#14444&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/jestjs/jest/compare/v29.6.3...v29.6.4"&gt;https://github.com/jestjs/jest/compare/v29.6.3...v29.6.4&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;v29.6.3&lt;/h2&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[expect, @jest/expect-utils]&lt;/code&gt;
+&lt;code&gt;ObjectContaining&lt;/code&gt; support &lt;code&gt;symbol&lt;/code&gt; as key (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14414"&gt;#14414&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[expect]&lt;/code&gt; Remove &lt;code&gt;@types/node&lt;/code&gt; from
+dependencies (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14385"&gt;#14385&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-core]&lt;/code&gt; Use workers in watch mode by default to
+avoid crashes (&lt;a
+href="https://redirect.github.com/facebook/jest/pull/14059"&gt;#14059&lt;/a&gt;
+&amp;amp; &lt;a
+href="https://redirect.github.com/facebook/jest/pull/14085"&gt;#14085&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-reporters]&lt;/code&gt; Update
+&lt;code&gt;istanbul-lib-instrument&lt;/code&gt; dependency to v6. (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14401"&gt;#14401&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-mock]&lt;/code&gt; Revert &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/13692"&gt;#13692&lt;/a&gt; as
+it was a breaking change (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14429"&gt;#14429&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-mock]&lt;/code&gt; Revert &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/13866"&gt;#13866&lt;/a&gt; as
+it was a breaking change (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14429"&gt;#14429&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/jestjs/jest/blob/main/CHANGELOG.md"&gt;jest's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;29.7.0&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[create-jest]&lt;/code&gt; Add &lt;code&gt;npm init&lt;/code&gt; / &lt;code&gt;yarn
+create&lt;/code&gt; initialiser for Jest projects (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-validate]&lt;/code&gt; Allow deprecation warnings for unknown
+options (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14499"&gt;#14499&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-resolver]&lt;/code&gt; Replace unmatched capture groups in
+&lt;code&gt;moduleNameMapper&lt;/code&gt; with empty string instead of
+&lt;code&gt;undefined&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14507"&gt;#14507&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-snapshot]&lt;/code&gt; Allow for strings as well as template
+literals in inline snapshots (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14465"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@jest/test-sequencer]&lt;/code&gt; Calculate test runtime if
+&lt;code&gt;perStats.duration&lt;/code&gt; is missing (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14473"&gt;#14473&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Performance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[@jest/create-cache-key-function]&lt;/code&gt; Cache access of
+&lt;code&gt;NODE_ENV&lt;/code&gt; and &lt;code&gt;BABEL_ENV&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14455"&gt;#14455&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Chore &amp;amp; Maintenance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-cli]&lt;/code&gt; Move internal config initialisation logic to
+the &lt;code&gt;create-jest&lt;/code&gt; package (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14453"&gt;#14465&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;29.6.4&lt;/h2&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-core]&lt;/code&gt; Fix typo in &lt;code&gt;scheduleAndRun&lt;/code&gt;
+performance marker (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14434"&gt;#14434&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-environment-node]&lt;/code&gt; Make sure &lt;code&gt;atob&lt;/code&gt; and
+&lt;code&gt;btoa&lt;/code&gt; are writeable in Node 20 (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14446"&gt;#14446&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-worker]&lt;/code&gt; Additional error wrapper for
+&lt;code&gt;parentPort.postMessage&lt;/code&gt; to fix unhandled
+&lt;code&gt;DataCloneError&lt;/code&gt;. (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14437"&gt;#14437&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;29.6.3&lt;/h2&gt;
+&lt;h3&gt;Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[expect, @jest/expect-utils]&lt;/code&gt;
+&lt;code&gt;ObjectContaining&lt;/code&gt; support &lt;code&gt;sumbol&lt;/code&gt; as key (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14414"&gt;#14414&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[expect]&lt;/code&gt; Remove &lt;code&gt;@types/node&lt;/code&gt; from
+dependencies (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14385"&gt;#14385&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-core]&lt;/code&gt; Use workers in watch mode by default to
+avoid crashes (&lt;a
+href="https://redirect.github.com/facebook/jest/pull/14059"&gt;#14059&lt;/a&gt;
+&amp;amp; &lt;a
+href="https://redirect.github.com/facebook/jest/pull/14085"&gt;#14085&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-reporters]&lt;/code&gt; Update
+&lt;code&gt;istanbul-lib-instrument&lt;/code&gt; dependency to v6. (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14401"&gt;#14401&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-mock]&lt;/code&gt; Revert &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/13692"&gt;#13692&lt;/a&gt; as
+it was a breaking change (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14429"&gt;#14429&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-mock]&lt;/code&gt; Revert &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/13866"&gt;#13866&lt;/a&gt; as
+it was a breaking change (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14429"&gt;#14429&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-mock]&lt;/code&gt; Revert &lt;a
+href="https://redirect.github.com/jestjs/jest/pull/13867"&gt;#13867&lt;/a&gt; as
+it was a breaking change (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14429"&gt;#14429&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[@jest/reporters]&lt;/code&gt; Marks Reporter's hooks as optional
+(&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14433"&gt;#14433&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[jest-runtime]&lt;/code&gt; Fix dynamic ESM import module bug when
+loaded module through &lt;code&gt;jest.isolateModulesAsync&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14397"&gt;#14397&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Chore &amp;amp; Maintenance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[jest-changed-files, jest-circus, jest-console, @jest/core,
+@jest/runtime, @jest/transform]&lt;/code&gt; Use &lt;code&gt;invariant&lt;/code&gt; and
+&lt;code&gt;notEmpty&lt;/code&gt; from &lt;code&gt;jest-util&lt;/code&gt; rather than own
+internal (&lt;a
+href="https://redirect.github.com/jestjs/jest/pull/14366"&gt;#14366&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/jestjs/jest/commit/4e56991693da7cd4c3730dc3579a1dd1403ee630"&gt;&lt;code&gt;4e56991&lt;/code&gt;&lt;/a&gt;
+v29.7.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/jestjs/jest/commit/55cd6a0aaf6f9178199dfa7af7a00fcaa7c421fd"&gt;&lt;code&gt;55cd6a0&lt;/code&gt;&lt;/a&gt;
+v29.6.4&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/jestjs/jest/commit/fb7d95c8af6e0d65a8b65348433d8a0ea0725b5b"&gt;&lt;code&gt;fb7d95c&lt;/code&gt;&lt;/a&gt;
+v29.6.3&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/jestjs/jest/commit/49bacb9620b87c476bd5ba1b30e26ca2c4f42a70"&gt;&lt;code&gt;49bacb9&lt;/code&gt;&lt;/a&gt;
+chore: update jest repo organisation in urls (&lt;a
+href="https://github.com/jestjs/jest/tree/HEAD/packages/jest/issues/14413"&gt;#14413&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/jestjs/jest/commits/v29.7.0/packages/jest"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=jest&amp;package-manager=npm_and_yarn&amp;previous-version=29.6.2&amp;new-version=29.7.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcd26de</div>
+                                        <div class="message">Remove yarn resolution for @types/react (#1968)
+
+## Which problem is this PR solving?
+- may fix https://github.com/jaegertracing/jaeger-ui/issues/1964 (Not
+using the syntax to close the issue, since we have to wait till
+depandabot again tries the upgrade procedure.)
+
+## Description of the changes
+- This PR removes resolution for `types/react`.
+- Since the error described in
+https://github.com/jaegertracing/jaeger-ui/issues/1964 indicates that
+depandabot tried to upgrade @types/react from 18.2.33 to 18.2.37 but
+because of no yarn.lock change, it failed.
+- Yarn.lock wasn't changed in case of depandabot because of resolution.
+
+## How was this change tested?
+- CI
+
+## Checklist
+- [x] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [x] I have signed all commits
+- [x] I have added unit tests for the new functionality
+- [x] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8d787f2</div>
+                                        <div class="message">Merge branch 'jaegertracing:main' into main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1964 [Bug]: dependabot updates are broken</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yurishkuro in <span class="repo">jaegertracing/jaeger-ui</span></div>
+                                    <div class="comment">Finally you did it 🎉🎉🎉</div>
                                 </div>
                             </section>
                         </div>
@@ -466,7 +789,7 @@ Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2023, 20:34:54 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2023, 21:37:44 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
