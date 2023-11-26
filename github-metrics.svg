@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1909" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="860" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.40m added, 481k removed
+                                    1.39m added, 481k removed
                                 </div>
                             </section>
                             <section>
@@ -374,7 +374,39 @@
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
+                                        Deleted
+                      branch
+                                        <span class="code">ar1</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">y3</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
                       branch
                                         <span class="code">vt</span>
                                         in
@@ -390,14 +422,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 13 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">anshgoyalevil/jaeger-ui</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b3aef6</div>
+                                        <div class="sha">#0b79ebd</div>
                                         <div class="message">Merge branch 'jaegertracing:main' into main</div>
                                     </div>
                                 </div>
@@ -407,322 +439,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 39 commits in
-                                        <span class="repo">anshgoyalevil/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">i18n-docs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3726131</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2313)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6eb2253</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2312)
-
-
-Co-authored-by: asyncapi-bot-eve &lt;bot+eve@asyncapi.io&gt;%0ACo-authored-by: asyncapi-bot &lt;info@asyncapi.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d839e0</div>
-                                        <div class="message">chore: update tools.json (#2311)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b91f537</div>
-                                        <div class="message">chore(deps): bump axios from 0.27.2 to 1.6.0 (#2310)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5e504b</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2309)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c16678</div>
-                                        <div class="message">docs(spec): update latest specification (#2308)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#193209c</div>
-                                        <div class="message">fix: remaining days and mobile view issue of conference banners (#2306)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08c8b90</div>
-                                        <div class="message">feat: add banners for cfp for Bengaluru and Paris (#2218)
-
-
-Co-authored-by: V Thulisile Sibanda &lt;66913810+thulieblack@users.noreply.github.com&gt;%0ACo-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;%0ACo-authored-by: akshatnema &lt;akshatnema.school@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4fc687</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2301)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e7ae53</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3b4f0b</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bdbda6</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2296)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e4980c</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2295)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0647ddb</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2294)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc441df</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2285)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40bc38d</div>
-                                        <div class="message">feat: add global eslint plugin (#2288)
-
-
-Co-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9d53b3</div>
-                                        <div class="message">docs(spec): v3.0.0-next-major-spec.15 release (#2292)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79f0c34</div>
-                                        <div class="message">chore: update tools.json (#2291)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c21f955</div>
-                                        <div class="message">chore(blog): add the summary for september &amp; october (#2185)
-
-
-Co-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;%0ACo-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1f82ae</div>
-                                        <div class="message">feat: add bangalore ticket banner (#2283)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 39 commits in
-                                        <span class="repo">anshgoyalevil/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">i18n-link</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3726131</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2313)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6eb2253</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2312)
-
-
-Co-authored-by: asyncapi-bot-eve &lt;bot+eve@asyncapi.io&gt;%0ACo-authored-by: asyncapi-bot &lt;info@asyncapi.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d839e0</div>
-                                        <div class="message">chore: update tools.json (#2311)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b91f537</div>
-                                        <div class="message">chore(deps): bump axios from 0.27.2 to 1.6.0 (#2310)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5e504b</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2309)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c16678</div>
-                                        <div class="message">docs(spec): update latest specification (#2308)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#193209c</div>
-                                        <div class="message">fix: remaining days and mobile view issue of conference banners (#2306)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08c8b90</div>
-                                        <div class="message">feat: add banners for cfp for Bengaluru and Paris (#2218)
-
-
-Co-authored-by: V Thulisile Sibanda &lt;66913810+thulieblack@users.noreply.github.com&gt;%0ACo-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;%0ACo-authored-by: akshatnema &lt;akshatnema.school@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4fc687</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2301)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e7ae53</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3b4f0b</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bdbda6</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2296)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e4980c</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2295)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0647ddb</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2294)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc441df</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2285)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40bc38d</div>
-                                        <div class="message">feat: add global eslint plugin (#2288)
-
-
-Co-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9d53b3</div>
-                                        <div class="message">docs(spec): v3.0.0-next-major-spec.15 release (#2292)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79f0c34</div>
-                                        <div class="message">chore: update tools.json (#2291)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c21f955</div>
-                                        <div class="message">chore(blog): add the summary for september &amp; october (#2185)
-
-
-Co-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;%0ACo-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1f82ae</div>
-                                        <div class="message">feat: add bangalore ticket banner (#2283)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 39 commits in
-                                        <span class="repo">anshgoyalevil/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">enable-i18n</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3726131</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2313)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6eb2253</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2312)
-
-
-Co-authored-by: asyncapi-bot-eve &lt;bot+eve@asyncapi.io&gt;%0ACo-authored-by: asyncapi-bot &lt;info@asyncapi.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d839e0</div>
-                                        <div class="message">chore: update tools.json (#2311)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b91f537</div>
-                                        <div class="message">chore(deps): bump axios from 0.27.2 to 1.6.0 (#2310)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5e504b</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2309)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c16678</div>
-                                        <div class="message">docs(spec): update latest specification (#2308)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#193209c</div>
-                                        <div class="message">fix: remaining days and mobile view issue of conference banners (#2306)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08c8b90</div>
-                                        <div class="message">feat: add banners for cfp for Bengaluru and Paris (#2218)
-
-
-Co-authored-by: V Thulisile Sibanda &lt;66913810+thulieblack@users.noreply.github.com&gt;%0ACo-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;%0ACo-authored-by: akshatnema &lt;akshatnema.school@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4fc687</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2301)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e7ae53</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3b4f0b</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bdbda6</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2296)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e4980c</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2295)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0647ddb</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2294)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc441df</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2285)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40bc38d</div>
-                                        <div class="message">feat: add global eslint plugin (#2288)
-
-
-Co-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9d53b3</div>
-                                        <div class="message">docs(spec): v3.0.0-next-major-spec.15 release (#2292)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79f0c34</div>
-                                        <div class="message">chore: update tools.json (#2291)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c21f955</div>
-                                        <div class="message">chore(blog): add the summary for september &amp; october (#2185)
-
-
-Co-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;%0ACo-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1f82ae</div>
-                                        <div class="message">feat: add bangalore ticket banner (#2283)</div>
+                                        Created new
+                      branch
+                                        <span class="code">vt</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
                                     </div>
                                 </div>
                             </section>
@@ -732,7 +456,7 @@ Co-authored-by: Akshat Nema &lt;76521428+akshatnema@users.noreply.github.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2023, 17:41:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 18:37:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
