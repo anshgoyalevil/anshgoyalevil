@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1309" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="993" class="">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2966 Commits
+                            2968 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -381,6 +381,50 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#7ea24ef</div>
+                                        <div class="message">refine error handling
+
+Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">anshgoyalevil/CodifyPlusCRM-Server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#323f296</div>
+                                        <div class="message">refine error handling
+
+Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">anshgoyalevil/CodifyPlusCRM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#903ae38</div>
                                         <div class="message">add hotfix for all services and users
 
@@ -433,242 +477,12 @@ Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">anshgoyalevil/CodifyPlusCRM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ddb5c5e</div>
-                                        <div class="message">add hotfix for all services and users
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 149 commits in
-                                        <span class="repo">Deployers-Delite/talawa-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e2e1333</div>
-                                        <div class="message">removed unnecessary async/await syntax (#1324)
-
-* async await
-
-* removed unecessary async</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bb1785</div>
-                                        <div class="message">Generate GraphQL Schema and Markdown Documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#969b415</div>
-                                        <div class="message">resolved adminRemoveGroup return type error (#1311)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31cd259</div>
-                                        <div class="message">Delete .DS_Store</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32276cd</div>
-                                        <div class="message">Delete .DS_Store</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f59707f</div>
-                                        <div class="message">Proper Implementation of `Comments` and `Post` relation [Fixes #1302] (#1305)
-
-* Migrate all the models
-
-* Fix removeComment mutation
-
-* Modify createComment mutation
-
-* Update queries
-
-* Fix failing tests
-
-* Add field resolver tests for Post/comments
-
-* Delete CommentPost schema and migrate all the files
-
-* Fix failing tests
-
-* Add auth
-
-* Improve test coverage
-
-* Fix missing line coverage
-
-* Fix failing test
-
-* Make required changes
-
-* Fix typo
-
-* Add field level resolver
-
-* Make changes
-
-* Remove manual dropping of the password field</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d26d5f</div>
-                                        <div class="message">$pull and select() implemented (#1314)
-
-* $pull and select() implemented
-
-* minor change</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50837d2</div>
-                                        <div class="message">Bump vm2 from 3.9.15 to 3.9.17 (#1318)
-
-Bumps [vm2](https://github.com/patriksimek/vm2) from 3.9.15 to 3.9.17.
-- [Release notes](https://github.com/patriksimek/vm2/releases)
-- [Changelog](https://github.com/patriksimek/vm2/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/patriksimek/vm2/compare/3.9.15...3.9.17)
-
----
-updated-dependencies:
-- dependency-name: vm2
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a56e2a</div>
-                                        <div class="message">Load Sample Data into MongoDB via a NPM Command (#1300)
-
-* add db loader
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* Update INSTALLATION.md
-
-* format:fix
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* exclude script
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* format:fix
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* Update INSTALLATION.md
-
-* add more sample data
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* Update INSTALLATION.md
-
-* fix ts issues
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* format:fix
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* refactor code
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
-* modify sample data, update docm
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;
-
----------
-
-Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47ba71d</div>
-                                        <div class="message">Generate GraphQL Schema and Markdown Documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76df0bc</div>
-                                        <div class="message">Remove all the mentioned queries (#1304)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4adf572</div>
-                                        <div class="message">Generate GraphQL Schema and Markdown Documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2203ac2</div>
-                                        <div class="message">Remove comments query (#1294)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da5a469</div>
-                                        <div class="message">Generate GraphQL Schema and Markdown Documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#221026d</div>
-                                        <div class="message">Remove commentsByPost (#1295)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e150f69</div>
-                                        <div class="message">Update push-documentation.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a45db8b</div>
-                                        <div class="message">Update pull-request.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6381f19</div>
-                                        <div class="message">Update push.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a501dce</div>
-                                        <div class="message">Move the directory of autogenerated docs (#1290)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2e1014</div>
-                                        <div class="message">Fix for Push Workflow (#1282)
-
-* Migrate checking out API to use token as well
-
-* Revert changes in package-lock.json
-
-* Add environment config
-
-* Update workflow
-
-* Update workflow description</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2023, 15:38:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2023, 16:35:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
