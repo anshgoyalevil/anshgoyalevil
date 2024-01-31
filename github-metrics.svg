@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            54 Pull requests reviewed
+                            55 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            750 issue comments
+                            752 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.37m added, 478k removed
+                                    1.36m added, 478k removed
                                 </div>
                             </section>
                             <section>
@@ -375,43 +375,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#4003 Fully automated releases</span>
+                                        <span class="issue">#2130 docs: add translations guide for AsyncAPI website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by saschagrunert in <span class="repo">cri-o/cri-o</span></div>
-                                    <div class="comment">@saschagrunert Thanks for putting it in. I was a previous LFX Mentee, so I cannot apply again.
-To all the folks applying for this idea, go for it. Feel free to ping me if you need any help related to this.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">moovweb/gvm</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2563 fix: added links to all Expenses Breakdown cards in Finance.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by sagarkori143 in <span class="repo">asyncapi/website</span></div>
-                                    <div class="comment">@Mayaleeeee Can you please verify the new links if they are correct for each Card</div>
+                                    <div>opened by anshgoyalevil in <span class="repo">asyncapi/website</span></div>
+                                    <div class="comment">@alequetzalli Hey, could you please review PR 😄</div>
                                 </div>
                             </section>
                         </div>
@@ -422,12 +391,43 @@ To all the folks applying for this idea, go for it. Feel free to ping me if you 
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">sagarkori143/website</span>
+                                        Pushed 34 commits in
+                                        <span class="repo">anshgoyalevil/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">test</span></div>
+                                    <div>on branch <span class="code">i18n-docs</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2335a6f</div>
+                                        <div class="message">docs(community): update latest maintainers list (#2599)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#121ae85</div>
+                                        <div class="message">docs(community): update latest maintainers list (#2598)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#524f6fb</div>
+                                        <div class="message">docs(community): update latest tsc members list (#2597)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7607205</div>
+                                        <div class="message">fix: fixed the design inconsistency issue in finance cards (#2581)
+
+
+Co-authored-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4efe0ef</div>
+                                        <div class="message">chore: add new CODEOWNERS (#2596)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#033e8f9</div>
+                                        <div class="message">docs: add docs triagers to codeowners file (#2594)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c075bc</div>
+                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2593)</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#edf8dd0</div>
                                         <div class="message">docs(community): update latest maintainers list (#2592)</div>
@@ -495,34 +495,6 @@ Co-authored-by: Lukasz Gornicki &lt;lpgornicki@gmail.com&gt;</div>
 
 Co-authored-by: Alejandra Quetzalli &lt;alejandra.olvera.novack@gmail.com&gt;</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#41b7ec3</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2571)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a96256e</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2570)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33425ad</div>
-                                        <div class="message">docs(generator): update latest generator documentation (#2569)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff961ea</div>
-                                        <div class="message">docs(generator): update latest generator documentation (#2568)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3175eb</div>
-                                        <div class="message">docs(cli): update latest cli documentation (#2567)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#057d4c9</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2566)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f596a15</div>
-                                        <div class="message">chore: update meetings.json and newsrooom_videos.json (#2564)</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -534,12 +506,46 @@ Co-authored-by: Alejandra Quetzalli &lt;alejandra.olvera.novack@gmail.com&gt;</d
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#2474 docs: remove excess quotes in Restricted parameters object</span>
+                                        <span class="issue">#2539 feat: added finance and store to community</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Tenischev in <span class="repo">asyncapi/website</span></div>
+                                    <div>opened by vishvamsinh28 in <span class="repo">asyncapi/website</span></div>
                                     <div class="comment">/rtm</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#2539 feat: added finance and store to community</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by vishvamsinh28 in <span class="repo">asyncapi/website</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#4003 Fully automated releases</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by saschagrunert in <span class="repo">cri-o/cri-o</span></div>
+                                    <div class="comment">@saschagrunert Thanks for putting it in. I was a previous LFX Mentee, so I cannot apply again.
+To all the folks applying for this idea, go for it. Feel free to ping me if you need any help related to this.</div>
                                 </div>
                             </section>
                         </div>
@@ -548,7 +554,7 @@ Co-authored-by: Alejandra Quetzalli &lt;alejandra.olvera.novack@gmail.com&gt;</d
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2024, 08:37:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2024, 09:38:26 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
