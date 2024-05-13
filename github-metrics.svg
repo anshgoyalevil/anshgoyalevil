@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1001" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1180" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.project .items{padding-left:11px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.36m added, 488k removed
+                                    1.31m added, 424k removed
                                 </div>
                             </section>
                             <section>
@@ -367,98 +367,2166 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">eslint</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">rdx-act</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">zoom</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">ldsh</span>
+                                        in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">anshgoyalevil/Portfolio-Game</span>
+                                        Pushed 117 commits in
+                                        <span class="repo">anshgoyalevil/jaeger-ui</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d33af3</div>
-                                        <div class="message">Update CNAME</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#2938 feat: added script to convert md to mdx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by akshatnema in <span class="repo">asyncapi/website</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">akshatnema/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix-mdx</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26da1e9</div>
-                                        <div class="message">add windows escaper</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2938 feat: added script to convert md to mdx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by akshatnema in <span class="repo">asyncapi/website</span></div>
-                                    <div class="comment">
-                                        A neat workaround 🥳 
-Some minor bugs,
+                                        <div class="sha">#3933033</div>
+                                        <div class="message">Bump the eslint group with 2 updates (#2076)
 
-HTML tables aren't rendering correctly
-                                        <code>prettier --write '**/*.mdx'</code>
-                                        is not working on windows bash. Though it is working fine on Linux.
+Bumps the eslint group with 2 updates:
+[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin)
+and
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser).
+
+Updates `@typescript-eslint/eslint-plugin` from 6.14.0 to 6.16.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.16.0&lt;/h2&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.15.0...v6.16.0"&gt;6.16.0&lt;/a&gt;
+(2023-12-25)&lt;/h1&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [unbound-method] exempt all
+non-Promise built-in statics (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8096"&gt;#8096&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/31829591e2c5cf6bdbdd5da23b12c5782f710fa5"&gt;3182959&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate formatting rules (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8073"&gt;#8073&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/04dea84e8e934a415ec1381a90de3cde670d0dc3"&gt;04dea84&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;typescript-estree:&lt;/strong&gt; add allowDefaultProjectForFiles
+project service allowlist option (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7752"&gt;#7752&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/7ddadda10845bc53967eeec83ba6b7cdc71a079f"&gt;7ddadda&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;h2&gt;v6.15.0&lt;/h2&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.14.0...v6.15.0"&gt;6.15.0&lt;/a&gt;
+(2023-12-18)&lt;/h1&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-useless-template-literals] add
+new rule (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7957"&gt;#7957&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/ff75785f4c6cc41999f8ce946bfca469d6e40e50"&gt;ff75785&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/2846"&gt;#2846&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [require-array-sort-compare] support
+toSorted (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8052"&gt;#8052&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c9661c8bbf048e9fa3ef55985e1e2e82bc098b1a"&gt;c9661c8&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.15.0...v6.16.0"&gt;6.16.0&lt;/a&gt;
+(2023-12-25)&lt;/h1&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [unbound-method] exempt all
+non-Promise built-in statics (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8096"&gt;#8096&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/31829591e2c5cf6bdbdd5da23b12c5782f710fa5"&gt;3182959&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate formatting (meta.type:
+layout) rules (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8073"&gt;#8073&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/04dea84e8e934a415ec1381a90de3cde670d0dc3"&gt;04dea84&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate no-extra-semi in favor of
+ESLint Stylistic equivalent (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8123"&gt;#8123&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/9368bf390afc58a19123782f8dff2bb5cdd3cccc"&gt;9368bf3&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.14.0...v6.15.0"&gt;6.15.0&lt;/a&gt;
+(2023-12-18)&lt;/h1&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-useless-template-literals] add
+new rule (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7957"&gt;#7957&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/ff75785f4c6cc41999f8ce946bfca469d6e40e50"&gt;ff75785&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/2846"&gt;#2846&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;require-array-sort-compare + toSorted (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8052"&gt;#8052&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c9661c8bbf048e9fa3ef55985e1e2e82bc098b1a"&gt;c9661c8&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/7246e5604afb20835088104cb47c03b16610f21c"&gt;&lt;code&gt;7246e56&lt;/code&gt;&lt;/a&gt;
+chore: publish v6.16.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/31829591e2c5cf6bdbdd5da23b12c5782f710fa5"&gt;&lt;code&gt;3182959&lt;/code&gt;&lt;/a&gt;
+fix(eslint-plugin): [unbound-method] exempt all non-Promise built-in
+statics ...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/30311175d6e113200c3cade3d8cf7bbd2ff2e157"&gt;&lt;code&gt;3031117&lt;/code&gt;&lt;/a&gt;
+docs(eslint-plugin): enforce a heading for each rule option (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/8015"&gt;#8015&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/b3f87fc23c9238751087ed7c193877ef4084b0b4"&gt;&lt;code&gt;b3f87fc&lt;/code&gt;&lt;/a&gt;
+docs(eslint-plugin): add Deprecating Formatting Rules blog post (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/8117"&gt;#8117&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/9368bf390afc58a19123782f8dff2bb5cdd3cccc"&gt;&lt;code&gt;9368bf3&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): deprecate no-extra-semi in favor of ESLint
+Stylistic equ...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/f6f6a57ff04176c5bce025695b360bf85d2d8e02"&gt;&lt;code&gt;f6f6a57&lt;/code&gt;&lt;/a&gt;
+docs: add tombstone file for no-parameter-properties and suggested
+replacemen...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/04dea84e8e934a415ec1381a90de3cde670d0dc3"&gt;&lt;code&gt;04dea84&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): deprecate formatting (meta.type: layout) rules (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/8073"&gt;#8073&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/b1c92bbca17021605950308987ebc0383037f649"&gt;&lt;code&gt;b1c92bb&lt;/code&gt;&lt;/a&gt;
+chore(website): auto-generate type checked rule notice in rule docs (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/7951"&gt;#7951&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/26ba8eaecfcf67b2837f1401404711094f46ea3a"&gt;&lt;code&gt;26ba8ea&lt;/code&gt;&lt;/a&gt;
+docs: add more rationale for no-for-in-array (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/8082"&gt;#8082&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/eff7da182714244bb5ba2d46c6428729f791ff8f"&gt;&lt;code&gt;eff7da1&lt;/code&gt;&lt;/a&gt;
+docs: fix example for no-shadow (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/8080"&gt;#8080&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v6.16.0/packages/eslint-plugin"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `@typescript-eslint/parser` from 6.14.0 to 6.16.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.16.0&lt;/h2&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.15.0...v6.16.0"&gt;6.16.0&lt;/a&gt;
+(2023-12-25)&lt;/h1&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [unbound-method] exempt all
+non-Promise built-in statics (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8096"&gt;#8096&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/31829591e2c5cf6bdbdd5da23b12c5782f710fa5"&gt;3182959&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate formatting rules (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8073"&gt;#8073&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/04dea84e8e934a415ec1381a90de3cde670d0dc3"&gt;04dea84&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;typescript-estree:&lt;/strong&gt; add allowDefaultProjectForFiles
+project service allowlist option (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7752"&gt;#7752&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/7ddadda10845bc53967eeec83ba6b7cdc71a079f"&gt;7ddadda&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;h2&gt;v6.15.0&lt;/h2&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.14.0...v6.15.0"&gt;6.15.0&lt;/a&gt;
+(2023-12-18)&lt;/h1&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-useless-template-literals] add
+new rule (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7957"&gt;#7957&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/ff75785f4c6cc41999f8ce946bfca469d6e40e50"&gt;ff75785&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/2846"&gt;#2846&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [require-array-sort-compare] support
+toSorted (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8052"&gt;#8052&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c9661c8bbf048e9fa3ef55985e1e2e82bc098b1a"&gt;c9661c8&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.15.0...v6.16.0"&gt;6.16.0&lt;/a&gt;
+(2023-12-25)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Version bump only for package
+&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.14.0...v6.15.0"&gt;6.15.0&lt;/a&gt;
+(2023-12-18)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Version bump only for package
+&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/7246e5604afb20835088104cb47c03b16610f21c"&gt;&lt;code&gt;7246e56&lt;/code&gt;&lt;/a&gt;
+chore: publish v6.16.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/6128a02cb15d500fe22fe265c83e4d7a73ae52c3"&gt;&lt;code&gt;6128a02&lt;/code&gt;&lt;/a&gt;
+chore: publish v6.15.0&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v6.16.0/packages/parser"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">akshatnema/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix-mdx</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15640f2</div>
-                                        <div class="message">fix tables using remark gfm</div>
+                                        <div class="sha">#507d4aa</div>
+                                        <div class="message">fix: Move `@types` packages from `dependencies` to `devDependencies` (#2079)
+
+## Which problem is this PR solving?
+Fixes #2073 
+
+## Description of the changes
+Change `package.json` accordingly
+
+## How was this change tested?
+- Running the project locally
+
+## Checklist
+- [X] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [X] I have signed all commits
+- [X] I have added unit tests for the new functionality
+- [X] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+Signed-off-by: Eshaan Aggarwal &lt;96648934+EshaanAgg@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7db33e</div>
+                                        <div class="message">test: Migrate 3 components from Enzyme to RTL (#2070)
+
+## Which problem is this PR solving?
+Fixes part of #1668 
+
+## Description of the changes
+Migrates the following components from Enzyme to RTL
+1. `CircularProgressbar`
+2. `ErrorMessage`
+3. `TraceName`
+
+- Removed the instances of snapshot testing from the same and migrated
+to tests checking the functionality associated with them
+- Refactored some of the original code of the components to make them
+more readable
+
+## How was this change tested?
+- Running the tests locally
+
+## Checklist
+- [X] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [X] I have signed all commits
+- [X] I have added unit tests for the new functionality
+- [X] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Eshaan Aggarwal &lt;96648934+EshaanAgg@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#741e23c</div>
+                                        <div class="message">lint: Fix some linter warnings (#2069)
+
+## Which problem is this PR solving?
+Fixes part of #1608
+
+## Description of the changes
+- Fixed some more ESLint warning by adding relevant type annotations
+- `68` warnings to go after this PR
+
+## How was this change tested?
+- Ran `yarn lint` locally
+
+## Checklist
+- [X] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [X] I have signed all commits
+- [X] I have added unit tests for the new functionality
+- [X] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Eshaan Aggarwal &lt;96648934+EshaanAgg@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fefcac</div>
+                                        <div class="message">ci: simplify check-label workflow (#2068)
+
+## Which problem is this PR solving?
+Fixes #2067 
+
+## Description of the changes
+Removes the `set-output` command from the workflow
+
+## How was this change tested?
+NA
+
+## Checklist
+- [X] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [X] I have signed all commits
+- [X] I have added unit tests for the new functionality
+- [X] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Eshaan Aggarwal &lt;96648934+EshaanAgg@users.noreply.github.com&gt;
+Co-authored-by: Yuri Shkuro &lt;yurishkuro@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33b22a4</div>
+                                        <div class="message">fix: Fix some linting warnings (#2064)
+
+## Which problem is this PR solving?
+Fixes part of #1608 
+
+## Description of the changes
+- Added the minimal types needed to fix the linting warnings
+- Replaced `{}` with the `object` type
+
+## How was this change tested?
+- Ran `yarn lint` locally 
+
+## Checklist
+- [X] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [X] I have signed all commits
+- [X] I have added unit tests for the new functionality
+- [X] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Eshaan Aggarwal &lt;96648934+EshaanAgg@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c88b5fc</div>
+                                        <div class="message">migrate: Migrate ExternalLinks component from enzyme to RTL (#2065)
+
+## Which problem is this PR solving?
+Fixes part of #1668 
+
+## Description of the changes
+Migrate `ExternalLinks` component from enzyme to RTL
+
+## How was this change tested?
+Ran the tests locally
+
+## Checklist
+- [X] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [X] I have signed all commits
+- [X] I have added unit tests for the new functionality
+- [X] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+Signed-off-by: Eshaan Aggarwal &lt;96648934+EshaanAgg@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#621ceb2</div>
+                                        <div class="message">refac: migrate `ExamplesLink` and `EmphasizedNode` components from enzyme to RTL (#2066)
+
+## Which problem is this PR solving?
+Fixes part of #1668 
+
+## Description of the changes
+- Migrates `ExamplesLink` and `EmphasizedNode` components from enzyme to
+RTL
+- Replaces snapshot testing with actual test for the URLs
+
+## How was this change tested?
+Running the tests locally
+
+## Checklist
+- [x] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [x] I have signed all commits
+- [x] I have added unit tests for the new functionality
+- [x] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+Signed-off-by: Eshaan Aggarwal &lt;96648934+EshaanAgg@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cc0e88</div>
+                                        <div class="message">Updated Default Configuration for Deep Dependency Graph (#2063)
+
+## Problem
+
+Resolves #600, which reported a concern related to [Feature] change the
+default layout selection for deep dependency graph view (view=ddg)
+
+## Changes
+
+In order to resolve the mentioned issue, the following changes have been
+implemented:
+
+- Implemented logic in the componentDidMount lifecycle method to check
+local storage for a previously selected density, setting it as the
+default if found.
+- Modified the updateDensity method to save the selected density in
+local storage, ensuring persistence across sessions.
+- Enhanced user experience by retaining and applying the last selected
+density even after page reloads.
+
+
+## Testing
+
+The changes have been thoroughly tested to ensure their correctness and
+compatibility. The testing process included:
+
+- Modifying the index.test.js, to also consider a default configuration
+from local storage, rather than only considering a fixed configuration
+for testing.
+
+## Checklist
+
+To comply with the project's contribution guidelines, the following
+checklist items have been addressed:
+
+- ✓ I have carefully read and followed the [contributing
+guidelines](https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md).
+- ✓ I have signed all commits.
+- ✓ Unit tests for the new functionality have been added.
+- ✓ Linting and testing steps have been successfully executed:
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+![Screenshot 2023-12-19
+224644](https://github.com/jaegertracing/jaeger-ui/assets/103821431/155776d6-a39f-4808-a0da-8eb3c34a6c56)
+
+---------
+
+Signed-off-by: Wise-Wizard &lt;saransh.shankar@gmail.com&gt;
+Signed-off-by: Saransh Shankar &lt;103821431+Wise-Wizard@users.noreply.github.com&gt;
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;
+Co-authored-by: Yuri Shkuro &lt;yurishkuro@users.noreply.github.com&gt;
+Co-authored-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2947a10</div>
+                                        <div class="message">Refactoring: DAG migrated to Plexus's Digraph (#1981)
+
+## Which problem is this PR solving?
+- This issue is related to LFX task #1466 
+- I can create a more specific sub-issue if that's more suitable
+
+## Description of the changes
+- I've removed `cytoscape` and replaced it with `Digraph` from `Plexus`
+- Had to add support for labels in `Digraph` to support this change
+
+## How was this change tested?
+- The changes were tested visually
+- Tested with test data involving around 50 nodes
+
+Before - 
+
+&lt;img width="1785" alt="Screenshot 2023-11-18 at 22 06 10"
+src="https://github.com/jaegertracing/jaeger-ui/assets/28570857/dd130e06-94d5-41b8-8217-7e0cdb442dc2"&gt;
+
+Now -
+
+&lt;img width="1785" alt="Screenshot 2023-11-18 at 22 06 22"
+src="https://github.com/jaegertracing/jaeger-ui/assets/28570857/6249207d-b1e6-4774-82ad-2f9e6a589f3e"&gt;
+
+Tha additional tab visible in above images has been removed
+
+## Checklist
+- [x] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [x] I have signed all commits
+- [ ] I have added unit tests for the new functionality
+- [x] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Prathamesh Mutkure &lt;pmutkure009@gmail.com&gt;
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;
+Co-authored-by: Yuri Shkuro &lt;yurishkuro@users.noreply.github.com&gt;
+Co-authored-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63361a2</div>
+                                        <div class="message">Bump the eslint group with 4 updates (#2059)
+
+Bumps the eslint group with 4 updates:
+[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin),
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser),
+[eslint](https://github.com/eslint/eslint) and
+[eslint-plugin-import](https://github.com/import-js/eslint-plugin-import).
+
+Updates `@typescript-eslint/eslint-plugin` from 6.13.2 to 6.14.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.14.0&lt;/h2&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.13.2...v6.14.0"&gt;6.14.0&lt;/a&gt;
+(2023-12-11)&lt;/h1&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; add no-unsafe-unary-minus,
+prefer-destructuring to disable-type-checked (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8038"&gt;#8038&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/431cd1559f91795e958e03fd060ceaf79fb96f3a"&gt;431cd15&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; correct message for
+&lt;code&gt;no-unsafe-unary-minus&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7998"&gt;#7998&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/705370ac0d9c54081657b8855b398e57d6ea4ddb"&gt;705370a&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [explicit-function-return-type] add
+support for typed class property definitions (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8027"&gt;#8027&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/bff47d7885bee3bbcb3a81eff273fe2f48580940"&gt;bff47d7&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [require-await] allow yielding
+Promise in async generators (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8003"&gt;#8003&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/4c3e704b97e698df7f72174c2d20714836d4d243"&gt;4c3e704&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/eslint-plugin&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.13.2...v6.14.0"&gt;6.14.0&lt;/a&gt;
+(2023-12-11)&lt;/h1&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; add no-unsafe-unary-minus,
+prefer-destructuring to disable-type-checked (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8038"&gt;#8038&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/431cd1559f91795e958e03fd060ceaf79fb96f3a"&gt;431cd15&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; correct message for
+&lt;code&gt;no-unsafe-unary-minus&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7998"&gt;#7998&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/705370ac0d9c54081657b8855b398e57d6ea4ddb"&gt;705370a&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [explicit-function-return-type] add
+support for typed class property definitions (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8027"&gt;#8027&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/bff47d7885bee3bbcb3a81eff273fe2f48580940"&gt;bff47d7&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [require-await] allow yielding
+Promise in async generators (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8003"&gt;#8003&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/4c3e704b97e698df7f72174c2d20714836d4d243"&gt;4c3e704&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c7d702f4315f66c75ae16a4b559ef5b4705bb804"&gt;&lt;code&gt;c7d702f&lt;/code&gt;&lt;/a&gt;
+chore: publish v6.14.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/431cd1559f91795e958e03fd060ceaf79fb96f3a"&gt;&lt;code&gt;431cd15&lt;/code&gt;&lt;/a&gt;
+fix(eslint-plugin): add no-unsafe-unary-minus, prefer-destructuring to
+disabl...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/705370ac0d9c54081657b8855b398e57d6ea4ddb"&gt;&lt;code&gt;705370a&lt;/code&gt;&lt;/a&gt;
+fix(eslint-plugin): correct message for
+&lt;code&gt;no-unsafe-unary-minus&lt;/code&gt; (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/7998"&gt;#7998&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/4c3e704b97e698df7f72174c2d20714836d4d243"&gt;&lt;code&gt;4c3e704&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): [require-await] allow yielding Promise in async
+generato...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/314f03423600f4610927bf44d3f4ab3749ccce9e"&gt;&lt;code&gt;314f034&lt;/code&gt;&lt;/a&gt;
+docs(eslint-plugin): [no-throw-literal] fix typo in example (&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin/issues/8006"&gt;#8006&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/bff47d7885bee3bbcb3a81eff273fe2f48580940"&gt;&lt;code&gt;bff47d7&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): [explicit-function-return-type] add support for
+typed cl...&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v6.14.0/packages/eslint-plugin"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `@typescript-eslint/parser` from 6.13.2 to 6.14.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.14.0&lt;/h2&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.13.2...v6.14.0"&gt;6.14.0&lt;/a&gt;
+(2023-12-11)&lt;/h1&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; add no-unsafe-unary-minus,
+prefer-destructuring to disable-type-checked (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8038"&gt;#8038&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/431cd1559f91795e958e03fd060ceaf79fb96f3a"&gt;431cd15&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; correct message for
+&lt;code&gt;no-unsafe-unary-minus&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/7998"&gt;#7998&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/705370ac0d9c54081657b8855b398e57d6ea4ddb"&gt;705370a&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [explicit-function-return-type] add
+support for typed class property definitions (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8027"&gt;#8027&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/bff47d7885bee3bbcb3a81eff273fe2f48580940"&gt;bff47d7&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [require-await] allow yielding
+Promise in async generators (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/issues/8003"&gt;#8003&lt;/a&gt;)
+(&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/4c3e704b97e698df7f72174c2d20714836d4d243"&gt;4c3e704&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/compare/v6.13.2...v6.14.0"&gt;6.14.0&lt;/a&gt;
+(2023-12-11)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Version bump only for package
+&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/c7d702f4315f66c75ae16a4b559ef5b4705bb804"&gt;&lt;code&gt;c7d702f&lt;/code&gt;&lt;/a&gt;
+chore: publish v6.14.0&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v6.14.0/packages/parser"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `eslint` from 8.55.0 to 8.56.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/eslint/eslint/releases"&gt;eslint's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v8.56.0&lt;/h2&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/0dd9704c4751e1cd02039f7d6485fee09bbccbf6"&gt;&lt;code&gt;0dd9704&lt;/code&gt;&lt;/a&gt;
+feat: Support custom severity when reporting unused disable directives
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17212"&gt;#17212&lt;/a&gt;)
+(Bryan Mishkin)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/31a7e3fde491e36496b54e8905c766b31162d776"&gt;&lt;code&gt;31a7e3f&lt;/code&gt;&lt;/a&gt;
+feat: fix no-restricted-properties false negatives with unknown objects
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17818"&gt;#17818&lt;/a&gt;)
+(Arka Pratim Chaudhuri)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/7d5e5f68849ae80caec0fc96ecceebccd348deec"&gt;&lt;code&gt;7d5e5f6&lt;/code&gt;&lt;/a&gt;
+fix: &lt;code&gt;TypeError: fs.exists is not a function&lt;/code&gt; on read-only
+file system (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17846"&gt;#17846&lt;/a&gt;)
+(Francesco Trotta)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/74739c849bbb6547b0e555ed8bb2ba1cbe0fdce4"&gt;&lt;code&gt;74739c8&lt;/code&gt;&lt;/a&gt;
+fix: suggestion with invalid syntax in no-promise-executor-return rule
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17812"&gt;#17812&lt;/a&gt;)
+(Bryan Mishkin)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/90077199fe519953f9af8664bf947db4e4958514"&gt;&lt;code&gt;9007719&lt;/code&gt;&lt;/a&gt;
+docs: update link in ways-to-extend.md (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17839"&gt;#17839&lt;/a&gt;)
+(Amel SELMANE)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/3a22236f8d10af8a5bcafe56092651d3d681c99d"&gt;&lt;code&gt;3a22236&lt;/code&gt;&lt;/a&gt;
+docs: Update README (GitHub Actions Bot)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/54c3ca6f2dcd2a7afd53f42fc32055a25587259e"&gt;&lt;code&gt;54c3ca6&lt;/code&gt;&lt;/a&gt;
+docs: fix migration-guide example (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17829"&gt;#17829&lt;/a&gt;)
+(Tanuj Kanti)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/4391b71e62b15e54b0493f0dce1ea053ebbc0689"&gt;&lt;code&gt;4391b71&lt;/code&gt;&lt;/a&gt;
+docs: check config comments in rule examples (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17815"&gt;#17815&lt;/a&gt;)
+(Francesco Trotta)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/fd2836342c2be4751b05fe0ba7cece17d1edecc8"&gt;&lt;code&gt;fd28363&lt;/code&gt;&lt;/a&gt;
+docs: remove mention about ESLint stylistic rules in readme (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17810"&gt;#17810&lt;/a&gt;)
+(Zwyx)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/48ed5a6dad478a14d3e823f137455c523f373e0b"&gt;&lt;code&gt;48ed5a6&lt;/code&gt;&lt;/a&gt;
+docs: Update README (GitHub Actions Bot)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Chores&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/ba6af85c7d8ba55d37f8663aee949d148e441c1a"&gt;&lt;code&gt;ba6af85&lt;/code&gt;&lt;/a&gt;
+chore: upgrade &lt;code&gt;@​eslint/js&lt;/code&gt;&lt;a
+href="https://github.com/8"&gt;&lt;code&gt;@​8&lt;/code&gt;&lt;/a&gt;.56.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17864"&gt;#17864&lt;/a&gt;)
+(Milos Djermanovic)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/60a531a9c0811ddf718e26b9136e133f580b6c36"&gt;&lt;code&gt;60a531a&lt;/code&gt;&lt;/a&gt;
+chore: package.json update for &lt;code&gt;@​eslint/js&lt;/code&gt; release
+(Jenkins)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/ba87a0651a65b52c3ac442b512dd9f4c2b4c5f57"&gt;&lt;code&gt;ba87a06&lt;/code&gt;&lt;/a&gt;
+chore: update dependency markdownlint to ^0.32.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17783"&gt;#17783&lt;/a&gt;)
+(renovate[bot])&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/9271d10d9eabeafb0129a090f29191bfd14273c0"&gt;&lt;code&gt;9271d10&lt;/code&gt;&lt;/a&gt;
+chore: add GitHub issue template for docs issues (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17845"&gt;#17845&lt;/a&gt;)
+(Josh Goldberg ✨)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/70a686b3c1feac5eca98bbff9bd67175f550d5db"&gt;&lt;code&gt;70a686b&lt;/code&gt;&lt;/a&gt;
+chore: Convert rule tests to FlatRuleTester (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17819"&gt;#17819&lt;/a&gt;)
+(Nicholas C. Zakas)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/f3a599d34c7080fc0b2c9a60b5e54dc98c22867c"&gt;&lt;code&gt;f3a599d&lt;/code&gt;&lt;/a&gt;
+chore: upgrade eslint-plugin-unicorn to v49.0.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17837"&gt;#17837&lt;/a&gt;)
+(唯然)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/905d4b75ab2df42aba30622cee0f66b511397e2c"&gt;&lt;code&gt;905d4b7&lt;/code&gt;&lt;/a&gt;
+chore: upgrade eslint-plugin-eslint-plugin v5.2.1 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17838"&gt;#17838&lt;/a&gt;)
+(唯然)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/4d7c3ce246e6b499f472342ef59496a47cc033d6"&gt;&lt;code&gt;4d7c3ce&lt;/code&gt;&lt;/a&gt;
+chore: update eslint-plugin-n v16.4.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17836"&gt;#17836&lt;/a&gt;)
+(唯然)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/fd0c60c3be1f213e5a6d69d8a3248e963619e155"&gt;&lt;code&gt;fd0c60c&lt;/code&gt;&lt;/a&gt;
+ci: unpin Node.js 21.2.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17821"&gt;#17821&lt;/a&gt;)
+(Francesco Trotta)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/eslint/eslint/blob/main/CHANGELOG.md"&gt;eslint's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;v8.56.0 - December 15, 2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/ba6af85c7d8ba55d37f8663aee949d148e441c1a"&gt;&lt;code&gt;ba6af85&lt;/code&gt;&lt;/a&gt;
+chore: upgrade &lt;code&gt;@​eslint/js&lt;/code&gt;&lt;a
+href="https://github.com/8"&gt;&lt;code&gt;@​8&lt;/code&gt;&lt;/a&gt;.56.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17864"&gt;#17864&lt;/a&gt;)
+(Milos Djermanovic)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/60a531a9c0811ddf718e26b9136e133f580b6c36"&gt;&lt;code&gt;60a531a&lt;/code&gt;&lt;/a&gt;
+chore: package.json update for &lt;code&gt;@​eslint/js&lt;/code&gt; release
+(Jenkins)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/0dd9704c4751e1cd02039f7d6485fee09bbccbf6"&gt;&lt;code&gt;0dd9704&lt;/code&gt;&lt;/a&gt;
+feat: Support custom severity when reporting unused disable directives
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17212"&gt;#17212&lt;/a&gt;)
+(Bryan Mishkin)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/31a7e3fde491e36496b54e8905c766b31162d776"&gt;&lt;code&gt;31a7e3f&lt;/code&gt;&lt;/a&gt;
+feat: fix no-restricted-properties false negatives with unknown objects
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17818"&gt;#17818&lt;/a&gt;)
+(Arka Pratim Chaudhuri)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/ba87a0651a65b52c3ac442b512dd9f4c2b4c5f57"&gt;&lt;code&gt;ba87a06&lt;/code&gt;&lt;/a&gt;
+chore: update dependency markdownlint to ^0.32.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17783"&gt;#17783&lt;/a&gt;)
+(renovate[bot])&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/7d5e5f68849ae80caec0fc96ecceebccd348deec"&gt;&lt;code&gt;7d5e5f6&lt;/code&gt;&lt;/a&gt;
+fix: &lt;code&gt;TypeError: fs.exists is not a function&lt;/code&gt; on read-only
+file system (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17846"&gt;#17846&lt;/a&gt;)
+(Francesco Trotta)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/9271d10d9eabeafb0129a090f29191bfd14273c0"&gt;&lt;code&gt;9271d10&lt;/code&gt;&lt;/a&gt;
+chore: add GitHub issue template for docs issues (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17845"&gt;#17845&lt;/a&gt;)
+(Josh Goldberg ✨)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/70a686b3c1feac5eca98bbff9bd67175f550d5db"&gt;&lt;code&gt;70a686b&lt;/code&gt;&lt;/a&gt;
+chore: Convert rule tests to FlatRuleTester (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17819"&gt;#17819&lt;/a&gt;)
+(Nicholas C. Zakas)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/90077199fe519953f9af8664bf947db4e4958514"&gt;&lt;code&gt;9007719&lt;/code&gt;&lt;/a&gt;
+docs: update link in ways-to-extend.md (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17839"&gt;#17839&lt;/a&gt;)
+(Amel SELMANE)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/f3a599d34c7080fc0b2c9a60b5e54dc98c22867c"&gt;&lt;code&gt;f3a599d&lt;/code&gt;&lt;/a&gt;
+chore: upgrade eslint-plugin-unicorn to v49.0.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17837"&gt;#17837&lt;/a&gt;)
+(唯然)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/905d4b75ab2df42aba30622cee0f66b511397e2c"&gt;&lt;code&gt;905d4b7&lt;/code&gt;&lt;/a&gt;
+chore: upgrade eslint-plugin-eslint-plugin v5.2.1 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17838"&gt;#17838&lt;/a&gt;)
+(唯然)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/4d7c3ce246e6b499f472342ef59496a47cc033d6"&gt;&lt;code&gt;4d7c3ce&lt;/code&gt;&lt;/a&gt;
+chore: update eslint-plugin-n v16.4.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17836"&gt;#17836&lt;/a&gt;)
+(唯然)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/3a22236f8d10af8a5bcafe56092651d3d681c99d"&gt;&lt;code&gt;3a22236&lt;/code&gt;&lt;/a&gt;
+docs: Update README (GitHub Actions Bot)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/54c3ca6f2dcd2a7afd53f42fc32055a25587259e"&gt;&lt;code&gt;54c3ca6&lt;/code&gt;&lt;/a&gt;
+docs: fix migration-guide example (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17829"&gt;#17829&lt;/a&gt;)
+(Tanuj Kanti)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/4391b71e62b15e54b0493f0dce1ea053ebbc0689"&gt;&lt;code&gt;4391b71&lt;/code&gt;&lt;/a&gt;
+docs: check config comments in rule examples (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17815"&gt;#17815&lt;/a&gt;)
+(Francesco Trotta)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/fd2836342c2be4751b05fe0ba7cece17d1edecc8"&gt;&lt;code&gt;fd28363&lt;/code&gt;&lt;/a&gt;
+docs: remove mention about ESLint stylistic rules in readme (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17810"&gt;#17810&lt;/a&gt;)
+(Zwyx)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/fd0c60c3be1f213e5a6d69d8a3248e963619e155"&gt;&lt;code&gt;fd0c60c&lt;/code&gt;&lt;/a&gt;
+ci: unpin Node.js 21.2.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17821"&gt;#17821&lt;/a&gt;)
+(Francesco Trotta)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/48ed5a6dad478a14d3e823f137455c523f373e0b"&gt;&lt;code&gt;48ed5a6&lt;/code&gt;&lt;/a&gt;
+docs: Update README (GitHub Actions Bot)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/74739c849bbb6547b0e555ed8bb2ba1cbe0fdce4"&gt;&lt;code&gt;74739c8&lt;/code&gt;&lt;/a&gt;
+fix: suggestion with invalid syntax in no-promise-executor-return rule
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17812"&gt;#17812&lt;/a&gt;)
+(Bryan Mishkin)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/8e8e9f8476d701e4e981b9b4d9957e5d4855e530"&gt;&lt;code&gt;8e8e9f8&lt;/code&gt;&lt;/a&gt;
+8.56.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/085978b3ce051e454c2244bf36a9493f7fa95d41"&gt;&lt;code&gt;085978b&lt;/code&gt;&lt;/a&gt;
+Build: changelog update for 8.56.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/ba6af85c7d8ba55d37f8663aee949d148e441c1a"&gt;&lt;code&gt;ba6af85&lt;/code&gt;&lt;/a&gt;
+chore: upgrade &lt;code&gt;@​eslint/js&lt;/code&gt;&lt;a
+href="https://github.com/8"&gt;&lt;code&gt;@​8&lt;/code&gt;&lt;/a&gt;.56.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17864"&gt;#17864&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/60a531a9c0811ddf718e26b9136e133f580b6c36"&gt;&lt;code&gt;60a531a&lt;/code&gt;&lt;/a&gt;
+chore: package.json update for &lt;code&gt;@​eslint/js&lt;/code&gt; release&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/0dd9704c4751e1cd02039f7d6485fee09bbccbf6"&gt;&lt;code&gt;0dd9704&lt;/code&gt;&lt;/a&gt;
+feat: Support custom severity when reporting unused disable directives
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17212"&gt;#17212&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/31a7e3fde491e36496b54e8905c766b31162d776"&gt;&lt;code&gt;31a7e3f&lt;/code&gt;&lt;/a&gt;
+feat: fix no-restricted-properties false negatives with unknown objects
+(&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17818"&gt;#17818&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/ba87a0651a65b52c3ac442b512dd9f4c2b4c5f57"&gt;&lt;code&gt;ba87a06&lt;/code&gt;&lt;/a&gt;
+chore: update dependency markdownlint to ^0.32.0 (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17783"&gt;#17783&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/7d5e5f68849ae80caec0fc96ecceebccd348deec"&gt;&lt;code&gt;7d5e5f6&lt;/code&gt;&lt;/a&gt;
+fix: &lt;code&gt;TypeError: fs.exists is not a function&lt;/code&gt; on read-only
+file system (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17846"&gt;#17846&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/9271d10d9eabeafb0129a090f29191bfd14273c0"&gt;&lt;code&gt;9271d10&lt;/code&gt;&lt;/a&gt;
+chore: add GitHub issue template for docs issues (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17845"&gt;#17845&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/eslint/eslint/commit/70a686b3c1feac5eca98bbff9bd67175f550d5db"&gt;&lt;code&gt;70a686b&lt;/code&gt;&lt;/a&gt;
+chore: Convert rule tests to FlatRuleTester (&lt;a
+href="https://redirect.github.com/eslint/eslint/issues/17819"&gt;#17819&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/eslint/eslint/compare/v8.55.0...v8.56.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `eslint-plugin-import` from 2.29.0 to 2.29.1
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/import-js/eslint-plugin-import/releases"&gt;eslint-plugin-import's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v2.29.1&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/import-js/eslint-plugin-import/compare/v2.29.0...v2.29.1"&gt;https://github.com/import-js/eslint-plugin-import/compare/v2.29.0...v2.29.1&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/import-js/eslint-plugin-import/blob/main/CHANGELOG.md"&gt;eslint-plugin-import's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;[2.29.1] - 2023-12-14&lt;/h2&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;code&gt;no-extraneous-dependencies&lt;/code&gt;]: ignore &lt;code&gt;export type
+{ ... } from '...'&lt;/code&gt; when &lt;code&gt;includeTypes&lt;/code&gt; is
+&lt;code&gt;false&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/import-js/eslint-plugin-import/issues/2919"&gt;#2919&lt;/a&gt;,
+thanks [&lt;a
+href="https://github.com/Pandemic1617"&gt;&lt;code&gt;@​Pandemic1617&lt;/code&gt;&lt;/a&gt;])&lt;/li&gt;
+&lt;li&gt;[&lt;code&gt;no-unused-modules&lt;/code&gt;]: support export patterns with array
+destructuring (&lt;a
+href="https://redirect.github.com/import-js/eslint-plugin-import/issues/2930"&gt;#2930&lt;/a&gt;,
+thanks [&lt;a
+href="https://github.com/ljharb"&gt;&lt;code&gt;@​ljharb&lt;/code&gt;&lt;/a&gt;])&lt;/li&gt;
+&lt;li&gt;[Deps] update &lt;code&gt;tsconfig-paths&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/import-js/eslint-plugin-import/issues/2447"&gt;#2447&lt;/a&gt;,
+thanks [&lt;a
+href="https://github.com/domdomegg"&gt;&lt;code&gt;@​domdomegg&lt;/code&gt;&lt;/a&gt;])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/import-js/eslint-plugin-import/commit/ee5fadeffff68f2300bed7f67a310496cb969d61"&gt;&lt;code&gt;ee5fade&lt;/code&gt;&lt;/a&gt;
+Bump to 2.29.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/import-js/eslint-plugin-import/commit/48fec35fbe9d20f5c859a02d0e4acef70759c875"&gt;&lt;code&gt;48fec35&lt;/code&gt;&lt;/a&gt;
+[Deps] update &lt;code&gt;tsconfig-paths&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/import-js/eslint-plugin-import/commit/80aee736721397cd073636950fef30aa65e165d3"&gt;&lt;code&gt;80aee73&lt;/code&gt;&lt;/a&gt;
+[Dev Deps] update &lt;code&gt;chai&lt;/code&gt;, &lt;code&gt;eslint-doc-generator&lt;/code&gt;,
+&lt;code&gt;markdownlint-cli&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/import-js/eslint-plugin-import/commit/8c83eafe4a709c0c275279a7bf99d92fa4e034a5"&gt;&lt;code&gt;8c83eaf&lt;/code&gt;&lt;/a&gt;
+[Tests] node v21.3 has a broken &lt;code&gt;fs.writeFile&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/import-js/eslint-plugin-import/commit/e67259e4c167d46e9cc5472d3afa32369fbf2eff"&gt;&lt;code&gt;e67259e&lt;/code&gt;&lt;/a&gt;
+[Fix] &lt;code&gt;no-unused-modules&lt;/code&gt;: support export patterns with array
+destructuring&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/import-js/eslint-plugin-import/commit/9fd3c42707d71987e439a847f2e213f55c84f734"&gt;&lt;code&gt;9fd3c42&lt;/code&gt;&lt;/a&gt;
+[Tests] &lt;code&gt;no-duplicates&lt;/code&gt;: add passing test&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/import-js/eslint-plugin-import/commit/12f0300100b9bb90c6a952d07c133f2d5842ad57"&gt;&lt;code&gt;12f0300&lt;/code&gt;&lt;/a&gt;
+[Fix] &lt;code&gt;no-extraneous-dependencies&lt;/code&gt;: ignore &lt;code&gt;export type
+{ ... } from '...'&lt;/code&gt; w...&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/import-js/eslint-plugin-import/compare/v2.29.0...v2.29.1"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bf1160</div>
+                                        <div class="message">Bump the vite group with 1 update (#2058)
+
+Bumps the vite group with 1 update:
+[vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite).
+
+Updates `vite` from 5.0.7 to 5.0.10
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md"&gt;vite's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.0.10 (2023-12-15)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: omit protocol does not require pre-transform (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15355"&gt;#15355&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/d9ae1b2"&gt;d9ae1b2&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15355"&gt;#15355&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(build): use base64 for inline SVG if it contains both single and
+double quotes (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15271"&gt;#15271&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/1bbff16"&gt;1bbff16&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15271"&gt;#15271&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.0.9 (2023-12-14)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: htmlFallbackMiddleware for favicon (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15301"&gt;#15301&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/c902545"&gt;c902545&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15301"&gt;#15301&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix: more stable hash calculation for depsOptimize (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15337"&gt;#15337&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/2b39fe6"&gt;2b39fe6&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15337"&gt;#15337&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(scanner): catch all external files for glob imports (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15286"&gt;#15286&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/129d0d0"&gt;129d0d0&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15286"&gt;#15286&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(server): avoid chokidar throttling on startup (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15347"&gt;#15347&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/56a5740"&gt;56a5740&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15347"&gt;#15347&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(worker): replace &lt;code&gt;import.meta&lt;/code&gt; correctly for IIFE
+worker (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15321"&gt;#15321&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/08d093c"&gt;08d093c&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15321"&gt;#15321&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;feat: log re-optimization reasons (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15339"&gt;#15339&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/b1a6c84"&gt;b1a6c84&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15339"&gt;#15339&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;chore: temporary typo (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15329"&gt;#15329&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/7b71854"&gt;7b71854&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15329"&gt;#15329&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;perf: avoid computing paths on each request (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15318"&gt;#15318&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/0506812"&gt;0506812&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15318"&gt;#15318&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;perf: temporary hack to avoid fs checks for /&lt;a
+href="https://github.com/react-refresh"&gt;&lt;code&gt;@​react-refresh&lt;/code&gt;&lt;/a&gt;
+(&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15299"&gt;#15299&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/b1d6211"&gt;b1d6211&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15299"&gt;#15299&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;!-- raw HTML omitted --&gt;5.0.8 (2023-12-12)&lt;!-- raw HTML omitted
+--&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;perf: cached fs utils (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15279"&gt;#15279&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/c9b61c4"&gt;c9b61c4&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15279"&gt;#15279&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix: missing warmupRequest in transformIndexHtml (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15303"&gt;#15303&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/103820f"&gt;103820f&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15303"&gt;#15303&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix: public files map will be updated on add/unlink in windows (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15317"&gt;#15317&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/921ca41"&gt;921ca41&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15317"&gt;#15317&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(build): decode urls in CSS files (fix &lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15109"&gt;#15109&lt;/a&gt;)
+(&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15246"&gt;#15246&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/ea6a7a6"&gt;ea6a7a6&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15109"&gt;#15109&lt;/a&gt;
+&lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15246"&gt;#15246&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(deps): update all non-major dependencies (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15304"&gt;#15304&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/bb07f60"&gt;bb07f60&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15304"&gt;#15304&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;fix(ssr): check esm file with normal file path (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15307"&gt;#15307&lt;/a&gt;)
+(&lt;a href="https://github.com/vitejs/vite/commit/1597170"&gt;1597170&lt;/a&gt;),
+closes &lt;a
+href="https://redirect.github.com/vitejs/vite/issues/15307"&gt;#15307&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/5684fcd8d27110d098b3e1c19d851f44251588f1"&gt;&lt;code&gt;5684fcd&lt;/code&gt;&lt;/a&gt;
+release: v5.0.10&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/1bbff16ff8c65d980d3843316ecbad8b1ec4e67a"&gt;&lt;code&gt;1bbff16&lt;/code&gt;&lt;/a&gt;
+fix(build): use base64 for inline SVG if it contains both single and
+double q...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/d9ae1b2e573e8e5e313c1f23a5a0b5d6d9dff887"&gt;&lt;code&gt;d9ae1b2&lt;/code&gt;&lt;/a&gt;
+fix: omit protocol does not require pre-transform (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15355"&gt;#15355&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/77d5165e2f252bfecbb0eebccc6f04dc8be0c5ba"&gt;&lt;code&gt;77d5165&lt;/code&gt;&lt;/a&gt;
+release: v5.0.9&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/56a5740bc7217b1a2690db156c5994ea9049f9e9"&gt;&lt;code&gt;56a5740&lt;/code&gt;&lt;/a&gt;
+fix(server): avoid chokidar throttling on startup (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15347"&gt;#15347&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/129d0d0983285d31bed41d2c7a08c138ad32e625"&gt;&lt;code&gt;129d0d0&lt;/code&gt;&lt;/a&gt;
+fix(scanner): catch all external files for glob imports (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15286"&gt;#15286&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/b1a6c84c3b55f9a79f63e1fd9bd11ac9ef151e92"&gt;&lt;code&gt;b1a6c84&lt;/code&gt;&lt;/a&gt;
+feat: log re-optimization reasons (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15339"&gt;#15339&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/2b39fe6584a55e6fe07664ac497e41d70f1fa32b"&gt;&lt;code&gt;2b39fe6&lt;/code&gt;&lt;/a&gt;
+fix: more stable hash calculation for depsOptimize (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15337"&gt;#15337&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/c902545476a4e7ba044c35b568e73683758178a3"&gt;&lt;code&gt;c902545&lt;/code&gt;&lt;/a&gt;
+fix: htmlFallbackMiddleware for favicon (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15301"&gt;#15301&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/vitejs/vite/commit/7b7185494afee4ffe857a772cfa881d555f19520"&gt;&lt;code&gt;7b71854&lt;/code&gt;&lt;/a&gt;
+chore: temporary typo (&lt;a
+href="https://github.com/vitejs/vite/tree/HEAD/packages/vite/issues/15329"&gt;#15329&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/vitejs/vite/commits/v5.0.10/packages/vite"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=vite&amp;package-manager=npm_and_yarn&amp;previous-version=5.0.7&amp;new-version=5.0.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4cc371</div>
+                                        <div class="message">Change dependabot frequency to weekly (#2057)
+
+## Which problem is this PR solving?
+- Daily frequency in unnecessary and occasionally picks multiple patch
+releases in a single Jaeger cycle, which is just unnecessary overhead on
+maintainers
+
+## Description of the changes
+- Change run frequency to weekly
+
+## How was this change tested?
+- CI
+
+Signed-off-by: Yuri Shkuro &lt;github@ysh.us&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa589cd</div>
+                                        <div class="message">Bump github/codeql-action from 2 to 3 (#2051)
+
+Bumps [github/codeql-action](https://github.com/github/codeql-action)
+from 2 to 3.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;github/codeql-action's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;CodeQL Bundle v2.15.4&lt;/h2&gt;
+&lt;p&gt;Bundles CodeQL CLI v2.15.4&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(&lt;a
+href="https://github.com/github/codeql-cli-binaries/blob/HEAD/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql-cli-binaries/releases/tag/v2.15.4"&gt;release&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Includes the following CodeQL language packs from &lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4"&gt;&lt;code&gt;github/codeql@codeql-cli/v2.15.4&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;codeql/cpp-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/cpp/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/cpp/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/cpp-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/cpp/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/cpp/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/csharp-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/csharp/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/csharp/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/csharp-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/csharp/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/csharp/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/go-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/go/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/go/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/go-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/go/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/go/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/java-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/java/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/java/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/java-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/java/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/java/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/javascript-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/javascript/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/javascript/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/javascript-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/javascript/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/javascript/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/python-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/python/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/python/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/python-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/python/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/python/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/ruby-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/ruby/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/ruby/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/ruby-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/ruby/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/ruby/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/swift-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/swift/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/swift/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/swift-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/swift/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.4/swift/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;CodeQL Bundle&lt;/h2&gt;
+&lt;p&gt;Bundles CodeQL CLI v2.15.3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(&lt;a
+href="https://github.com/github/codeql-cli-binaries/blob/HEAD/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql-cli-binaries/releases/tag/v2.15.3"&gt;release&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Includes the following CodeQL language packs from &lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3"&gt;&lt;code&gt;github/codeql@codeql-cli/v2.15.3&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;codeql/cpp-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/cpp/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/cpp/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/cpp-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/cpp/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/cpp/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/csharp-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/csharp/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/csharp/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/csharp-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/csharp/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/csharp/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/go-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/go/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/go/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/go-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/go/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/go/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/java-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/java/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/java/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/java-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/java/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/java/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/javascript-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/javascript/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/javascript/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/javascript-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/javascript/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/javascript/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/python-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/python/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/python/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/python-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/python/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/python/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/ruby-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/ruby/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/ruby/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/ruby-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/ruby/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/ruby/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/swift-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/swift/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/swift/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;codeql/swift-all&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/swift/ql/lib/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.3/swift/ql/lib"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;CodeQL Bundle&lt;/h2&gt;
+&lt;p&gt;Bundles CodeQL CLI v2.15.2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(&lt;a
+href="https://github.com/github/codeql-cli-binaries/blob/HEAD/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql-cli-binaries/releases/tag/v2.15.2"&gt;release&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Includes the following CodeQL language packs from &lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.2"&gt;&lt;code&gt;github/codeql@codeql-cli/v2.15.2&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;codeql/cpp-queries&lt;/code&gt; (&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.2/cpp/ql/src/CHANGELOG.md"&gt;changelog&lt;/a&gt;,
+&lt;a
+href="https://github.com/github/codeql/tree/codeql-cli/v2.15.2/cpp/ql/src"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/github/codeql-action/blob/main/CHANGELOG.md"&gt;github/codeql-action's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/3a9f6a89e06fb331ce22481637d19617501a5b7f"&gt;&lt;code&gt;3a9f6a8&lt;/code&gt;&lt;/a&gt;
+update javascript files&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/cc4fead714532424ab15b501a01d18c7f34d17e2"&gt;&lt;code&gt;cc4fead&lt;/code&gt;&lt;/a&gt;
+update version in various hardcoded locations&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/183559cea87c163bb01e99e0a15fd5500b23307f"&gt;&lt;code&gt;183559c&lt;/code&gt;&lt;/a&gt;
+Merge branch 'main' into update-bundle/codeql-bundle-v2.15.4&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/5b52b36d41451ee775917788e3bf225d7c1ceab3"&gt;&lt;code&gt;5b52b36&lt;/code&gt;&lt;/a&gt;
+reintroduce PR check that confirm action can be still be compiled on
+node16&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/5b19bef41e08b00f3d8f48219f46b1866a4f940d"&gt;&lt;code&gt;5b19bef&lt;/code&gt;&lt;/a&gt;
+change to node20 for all actions&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/f2d0c2e7ae58b70f81b81bf4c8b5c7a81fb2a5d6"&gt;&lt;code&gt;f2d0c2e&lt;/code&gt;&lt;/a&gt;
+upgrade node type definitions&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/d651fbc494fab13836ab76ffcfc8ce08c7c98d78"&gt;&lt;code&gt;d651fbc&lt;/code&gt;&lt;/a&gt;
+change to node20 for all actions&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/382a50a0284c0de445104889a9d6003acb4b3c1d"&gt;&lt;code&gt;382a50a&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/2021"&gt;#2021&lt;/a&gt;
+from github/mergeback/v2.22.9-to-main-c0d1daa7&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/458b4226ad8e38f90ff6a4ad1e18ab2593e7e3dc"&gt;&lt;code&gt;458b422&lt;/code&gt;&lt;/a&gt;
+Update checked-in dependencies&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/5e0f9dbc48f564b68392e465dcdacd74eab63e25"&gt;&lt;code&gt;5e0f9db&lt;/code&gt;&lt;/a&gt;
+Update changelog and version after v2.22.9&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/github/codeql-action/compare/v2...v3"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github/codeql-action&amp;package-manager=github_actions&amp;previous-version=2&amp;new-version=3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d7006f</div>
+                                        <div class="message">Bump the vite group with 1 update (#2039)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#020b849</div>
+                                        <div class="message">Bump the react group with 1 update (#2043)
+
+Bumps the react group with 1 update:
+[@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react).
+
+Updates `@types/react` from 18.2.42 to 18.2.43
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@types/react&amp;package-manager=npm_and_yarn&amp;previous-version=18.2.42&amp;new-version=18.2.43)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80f6b13</div>
+                                        <div class="message">Bump rollup-plugin-visualizer from 5.10.0 to 5.11.0 (#2044)
+
+Bumps
+[rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer)
+from 5.10.0 to 5.11.0.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/blob/master/CHANGELOG.md"&gt;rollup-plugin-visualizer's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;5.11.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correct lenghts in case of sourcemap it will strictly use sourcemap
+data always&lt;/li&gt;
+&lt;li&gt;Add css cursor pointer&lt;/li&gt;
+&lt;li&gt;Add --open to CLI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/commit/db62f94d960005b03ae6bad3e2559ec36c961227"&gt;&lt;code&gt;db62f94&lt;/code&gt;&lt;/a&gt;
+5.11.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/commit/14539d54ab9bf2a23e051991a1182c138f4aacba"&gt;&lt;code&gt;14539d5&lt;/code&gt;&lt;/a&gt;
+Set version in changelog&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/commit/931b4a724285c3d178bf4cce25b1c36d2cca2065"&gt;&lt;code&gt;931b4a7&lt;/code&gt;&lt;/a&gt;
+Refresh snapshots&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/commit/72e0edeccee2b58310d109d95eb7e358b73f9c97"&gt;&lt;code&gt;72e0ede&lt;/code&gt;&lt;/a&gt;
+Update changelog&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/commit/b41087288d9788d669e7804d59b324771968f6dc"&gt;&lt;code&gt;b410872&lt;/code&gt;&lt;/a&gt;
+Add open option to cli and make CLI use strict mode&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/commit/e1b03a0439ee89c44ed71f33f07dce89bb5cbfe2"&gt;&lt;code&gt;e1b03a0&lt;/code&gt;&lt;/a&gt;
+Use cursor pointer for nodes&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/commit/f18cdf8113551cac153595595d44b78e89dff854"&gt;&lt;code&gt;f18cdf8&lt;/code&gt;&lt;/a&gt;
+Use concatenated code from sourcemap after mapping, instead of
+originals&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/btd/rollup-plugin-visualizer/compare/v5.10.0...v5.11.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=rollup-plugin-visualizer&amp;package-manager=npm_and_yarn&amp;previous-version=5.10.0&amp;new-version=5.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75b9b78</div>
+                                        <div class="message">Bump terser from 5.25.0 to 5.26.0 (#2038)
+
+Bumps [terser](https://github.com/terser/terser) from 5.25.0 to 5.26.0.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/terser/terser/blob/master/CHANGELOG.md"&gt;terser's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v5.26.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not take the &lt;code&gt;/*#__PURE__*/&lt;/code&gt; annotation into account
+when the &lt;code&gt;side_effects&lt;/code&gt; compress option is off.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;preserve_annotations&lt;/code&gt; option now automatically opts
+annotation comments in, instead of requiring the &lt;code&gt;comments&lt;/code&gt;
+option to be configured for this.&lt;/li&gt;
+&lt;li&gt;Refuse to parse empty parenthesized expressions
+(&lt;code&gt;()&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/c793227396183fe6b2ca08216722c53c2ca8fe8d"&gt;&lt;code&gt;c793227&lt;/code&gt;&lt;/a&gt;
+5.26.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/07ba0b4486e0540cac497e98dc52f7c70357dba9"&gt;&lt;code&gt;07ba0b4&lt;/code&gt;&lt;/a&gt;
+update changelog&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/aa2a72d586c6327e87fb4d60c3957534f9e0968e"&gt;&lt;code&gt;aa2a72d&lt;/code&gt;&lt;/a&gt;
+Do not take the /&lt;em&gt;#&lt;strong&gt;PURE&lt;/strong&gt;&lt;/em&gt;/ annotation into
+account when the side_effects o...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/terser/terser/commit/14cc5e1ea32bec18629657c2607e2ec1f5ffffce"&gt;&lt;code&gt;14cc5e1&lt;/code&gt;&lt;/a&gt;
+Refuse to parse empty parenthesized expressions. Related to &lt;a
+href="https://redirect.github.com/terser/terser/issues/1296"&gt;#1296&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/terser/terser/compare/v5.25.0...v5.26.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=terser&amp;package-manager=npm_and_yarn&amp;previous-version=5.25.0&amp;new-version=5.26.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+You can trigger a rebase of this PR by commenting `@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46f89af</div>
+                                        <div class="message">Chore: Import only lodash submodules (#2041)
+
+## Which problem is this PR solving?
+- resolves #2032 
+
+## Description of the changes
+- Import only lodash submodules
+
+## How was this change tested?
+- locally
+
+Super cool that it reduced the size taken by lodash bundle by 70.59%
+(master branch vs this)
+
+Before:
+
+![image](https://github.com/jaegertracing/jaeger-ui/assets/94157520/25bc9f04-c4a7-45c0-b481-0332c09fca3c)
+lodash: 773.55 KB
+
+After:
+
+![image](https://github.com/jaegertracing/jaeger-ui/assets/94157520/54bbb26e-9804-4718-beaf-02cb382d0f62)
+lodash: 227.43 KB
+
+## Checklist
+- [x] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [x] I have signed all commits
+- [x] I have added unit tests for the new functionality
+- [x] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Ansh Goyal &lt;anshgoyal1704@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bdb8ac</div>
+                                        <div class="message">Replace Reselect with Memoize (#2042)
+
+## Which problem is this PR solving?
+Resolves https://github.com/jaegertracing/jaeger-ui/issues/2031
+## Description of the changes
+Remove package Reselect
+Delete file selectors/dependencies
+Add the memoize function to components/DependencyGraph/index.tsx
+
+## How was this change tested?
+yarn lint &amp; yarn test
+&lt;img width="514" alt="Screenshot 2023-12-10 at 1 13 35 PM"
+src="https://github.com/jaegertracing/jaeger-ui/assets/9301491/17c53891-ed5a-44a3-98ef-48b9a6280e05"&gt;
+
+## Checklist
+- [x] I have read
+https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING_GUIDELINES.md
+- [x] I have signed all commits
+- [x] I have added unit tests for the new functionality
+- [x] I have run lint and test steps successfully
+  - for `jaeger`: `make lint test`
+  - for `jaeger-ui`: `yarn lint` and `yarn test`
+
+---------
+
+Signed-off-by: Muzi Qiu &lt;qiumuzinaruto@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -468,7 +2536,7 @@ HTML tables aren't rendering correctly
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2024, 12:38:08 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 May 2024, 13:40:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
