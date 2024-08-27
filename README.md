@@ -20,5 +20,5 @@
 - Checkout my <a href="https://ansh.live/">Portfolio</a> 😇
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
